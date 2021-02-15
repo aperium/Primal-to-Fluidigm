@@ -7,7 +7,7 @@ if test -f "$FILE"; then
 fi
 
 
-#pull all of the primalscheme primers into a temporary file
+# pull all of the primalscheme primers into a temporary file
 cd ../primalscheme/overlap_70
 LIST=(*/*.primer.tsv)
 for name in ${LIST[@]}; do
@@ -21,5 +21,5 @@ done
 cd ../../clustal_on_primers
 awk 'BEGIN{FS="\t|\tGene1_|/"}{OFS="\t"}{print $1,$3,$4,$5,$6,$7,$8}' $FILE.tmp >> $FILE
 
-# delte the temporary file
+# delete the temporary file
 rm $FILE.tmp
