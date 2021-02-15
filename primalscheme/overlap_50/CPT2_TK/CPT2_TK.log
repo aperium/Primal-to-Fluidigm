@@ -1,0 +1,13 @@
+2020-12-01 05:20:13,009 - INFO - Writing log to overlap_50/CPT2_TK/CPT2_TK.log
+2020-12-01 05:20:13,030 - INFO - References:
+ - CPT2_TK
+2020-12-01 05:20:13,030 - INFO - Primary reference for coordinate system: CPT2_TK
+2020-12-01 05:20:13,030 - INFO - Considering primers from all references
+2020-12-01 05:20:13,472 - INFO - All done! Scheme created with 8 regions, 0 gaps, 70.23% coverage
+2020-12-01 05:20:13,472 - INFO - Writing overlap_50/CPT2_TK/CPT2_TK.primer.bed
+2020-12-01 05:20:13,473 - INFO - Writing overlap_50/CPT2_TK/CPT2_TK.insert.bed
+2020-12-01 05:20:13,474 - INFO - Writing overlap_50/CPT2_TK/CPT2_TK.primer.tsv
+2020-12-01 05:20:13,475 - INFO - Writing overlap_50/CPT2_TK/CPT2_TK.reference.fasta
+2020-12-01 05:20:13,487 - INFO - Writing overlap_50/CPT2_TK/CPT2_TK.plot.pdf
+2020-12-01 05:20:13,488 - INFO - Writing overlap_50/CPT2_TK/CPT2_TK.plot.svg
+2020-12-01 05:20:13,507 - INFO - Writing overlap_50/CPT2_TK/CPT2_TK.report.json

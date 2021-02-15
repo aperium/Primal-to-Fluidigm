@@ -1,0 +1,13 @@
+2020-12-01 05:22:36,030 - INFO - Writing log to overlap_65/2cMDE4PCT1_TK/2cMDE4PCT1_TK.log
+2020-12-01 05:22:36,352 - INFO - References:
+ - 2cMDE4PCT1_TK
+2020-12-01 05:22:36,352 - INFO - Primary reference for coordinate system: 2cMDE4PCT1_TK
+2020-12-01 05:22:36,352 - INFO - Considering primers from all references
+2020-12-01 05:22:37,972 - INFO - All done! Scheme created with 17 regions, 7 gaps, 65.61% coverage
+2020-12-01 05:22:37,972 - INFO - Writing overlap_65/2cMDE4PCT1_TK/2cMDE4PCT1_TK.primer.bed
+2020-12-01 05:22:37,974 - INFO - Writing overlap_65/2cMDE4PCT1_TK/2cMDE4PCT1_TK.insert.bed
+2020-12-01 05:22:37,974 - INFO - Writing overlap_65/2cMDE4PCT1_TK/2cMDE4PCT1_TK.primer.tsv
+2020-12-01 05:22:37,975 - INFO - Writing overlap_65/2cMDE4PCT1_TK/2cMDE4PCT1_TK.reference.fasta
+2020-12-01 05:22:37,983 - INFO - Writing overlap_65/2cMDE4PCT1_TK/2cMDE4PCT1_TK.plot.pdf
+2020-12-01 05:22:37,984 - INFO - Writing overlap_65/2cMDE4PCT1_TK/2cMDE4PCT1_TK.plot.svg
+2020-12-01 05:22:38,016 - INFO - Writing overlap_65/2cMDE4PCT1_TK/2cMDE4PCT1_TK.report.json

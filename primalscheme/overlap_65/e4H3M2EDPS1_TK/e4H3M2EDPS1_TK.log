@@ -1,0 +1,13 @@
+2020-12-01 05:23:12,644 - INFO - Writing log to overlap_65/e4H3M2EDPS1_TK/e4H3M2EDPS1_TK.log
+2020-12-01 05:23:12,657 - INFO - References:
+ - e4H3M2EDPS1_TK
+2020-12-01 05:23:12,657 - INFO - Primary reference for coordinate system: e4H3M2EDPS1_TK
+2020-12-01 05:23:12,657 - INFO - Considering primers from all references
+2020-12-01 05:23:14,551 - INFO - All done! Scheme created with 29 regions, 9 gaps, 83.24% coverage
+2020-12-01 05:23:14,552 - INFO - Writing overlap_65/e4H3M2EDPS1_TK/e4H3M2EDPS1_TK.primer.bed
+2020-12-01 05:23:14,553 - INFO - Writing overlap_65/e4H3M2EDPS1_TK/e4H3M2EDPS1_TK.insert.bed
+2020-12-01 05:23:14,554 - INFO - Writing overlap_65/e4H3M2EDPS1_TK/e4H3M2EDPS1_TK.primer.tsv
+2020-12-01 05:23:14,555 - INFO - Writing overlap_65/e4H3M2EDPS1_TK/e4H3M2EDPS1_TK.reference.fasta
+2020-12-01 05:23:14,567 - INFO - Writing overlap_65/e4H3M2EDPS1_TK/e4H3M2EDPS1_TK.plot.pdf
+2020-12-01 05:23:14,567 - INFO - Writing overlap_65/e4H3M2EDPS1_TK/e4H3M2EDPS1_TK.plot.svg
+2020-12-01 05:23:14,624 - INFO - Writing overlap_65/e4H3M2EDPS1_TK/e4H3M2EDPS1_TK.report.json

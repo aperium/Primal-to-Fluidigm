@@ -1,0 +1,13 @@
+2020-12-01 05:21:23,346 - INFO - Writing log to overlap_55/GDPS1_TK/GDPS1_TK.log
+2020-12-01 05:21:23,369 - INFO - References:
+ - GDPS1_TK
+2020-12-01 05:21:23,369 - INFO - Primary reference for coordinate system: GDPS1_TK
+2020-12-01 05:21:23,369 - INFO - Considering primers from all references
+2020-12-01 05:21:25,250 - INFO - All done! Scheme created with 22 regions, 9 gaps, 76.6% coverage
+2020-12-01 05:21:25,250 - INFO - Writing overlap_55/GDPS1_TK/GDPS1_TK.primer.bed
+2020-12-01 05:21:25,252 - INFO - Writing overlap_55/GDPS1_TK/GDPS1_TK.insert.bed
+2020-12-01 05:21:25,253 - INFO - Writing overlap_55/GDPS1_TK/GDPS1_TK.primer.tsv
+2020-12-01 05:21:25,254 - INFO - Writing overlap_55/GDPS1_TK/GDPS1_TK.reference.fasta
+2020-12-01 05:21:25,263 - INFO - Writing overlap_55/GDPS1_TK/GDPS1_TK.plot.pdf
+2020-12-01 05:21:25,263 - INFO - Writing overlap_55/GDPS1_TK/GDPS1_TK.plot.svg
+2020-12-01 05:21:25,301 - INFO - Writing overlap_55/GDPS1_TK/GDPS1_TK.report.json

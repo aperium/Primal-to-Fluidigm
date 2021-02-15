@@ -1,0 +1,15 @@
+2020-12-01 05:21:36,131 - INFO - Writing log to overlap_55/cluster_CPT_TK/cluster_CPT_TK.log
+2020-12-01 05:21:36,136 - INFO - References:
+ - CPT1_1_TK
+ - CPT3_TK
+2020-12-01 05:21:36,136 - INFO - Primary reference for coordinate system: CPT1_1_TK
+2020-12-01 05:21:36,136 - INFO - Considering primers from all references
+2020-12-01 05:21:36,139 - INFO - Excluding reference CPT3_TK: unable to align.
+2020-12-01 05:21:36,512 - INFO - All done! Scheme created with 11 regions, 0 gaps, 90.3% coverage
+2020-12-01 05:21:36,513 - INFO - Writing overlap_55/cluster_CPT_TK/cluster_CPT_TK.primer.bed
+2020-12-01 05:21:36,514 - INFO - Writing overlap_55/cluster_CPT_TK/cluster_CPT_TK.insert.bed
+2020-12-01 05:21:36,514 - INFO - Writing overlap_55/cluster_CPT_TK/cluster_CPT_TK.primer.tsv
+2020-12-01 05:21:36,515 - INFO - Writing overlap_55/cluster_CPT_TK/cluster_CPT_TK.reference.fasta
+2020-12-01 05:21:36,520 - INFO - Writing overlap_55/cluster_CPT_TK/cluster_CPT_TK.plot.pdf
+2020-12-01 05:21:36,520 - INFO - Writing overlap_55/cluster_CPT_TK/cluster_CPT_TK.plot.svg
+2020-12-01 05:21:36,541 - INFO - Writing overlap_55/cluster_CPT_TK/cluster_CPT_TK.report.json

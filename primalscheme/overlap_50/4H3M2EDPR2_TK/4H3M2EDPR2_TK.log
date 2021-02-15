@@ -1,0 +1,13 @@
+2020-12-01 05:20:11,914 - INFO - Writing log to overlap_50/4H3M2EDPR2_TK/4H3M2EDPR2_TK.log
+2020-12-01 05:20:11,936 - INFO - References:
+ - 4H3M2EDPR2_TK
+2020-12-01 05:20:11,936 - INFO - Primary reference for coordinate system: 4H3M2EDPR2_TK
+2020-12-01 05:20:11,936 - INFO - Considering primers from all references
+2020-12-01 05:20:12,535 - INFO - All done! Scheme created with 7 regions, 2 gaps, 65.25% coverage
+2020-12-01 05:20:12,536 - INFO - Writing overlap_50/4H3M2EDPR2_TK/4H3M2EDPR2_TK.primer.bed
+2020-12-01 05:20:12,536 - INFO - Writing overlap_50/4H3M2EDPR2_TK/4H3M2EDPR2_TK.insert.bed
+2020-12-01 05:20:12,537 - INFO - Writing overlap_50/4H3M2EDPR2_TK/4H3M2EDPR2_TK.primer.tsv
+2020-12-01 05:20:12,538 - INFO - Writing overlap_50/4H3M2EDPR2_TK/4H3M2EDPR2_TK.reference.fasta
+2020-12-01 05:20:12,543 - INFO - Writing overlap_50/4H3M2EDPR2_TK/4H3M2EDPR2_TK.plot.pdf
+2020-12-01 05:20:12,543 - INFO - Writing overlap_50/4H3M2EDPR2_TK/4H3M2EDPR2_TK.plot.svg
+2020-12-01 05:20:12,563 - INFO - Writing overlap_50/4H3M2EDPR2_TK/4H3M2EDPR2_TK.report.json

@@ -1,0 +1,13 @@
+2020-12-01 05:20:48,981 - INFO - Writing log to overlap_55/1_FEH_TK/1_FEH_TK.log
+2020-12-01 05:20:48,987 - INFO - References:
+ - 1_FEH_TK
+2020-12-01 05:20:48,987 - INFO - Primary reference for coordinate system: 1_FEH_TK
+2020-12-01 05:20:48,988 - INFO - Considering primers from all references
+2020-12-01 05:20:51,456 - INFO - All done! Scheme created with 17 regions, 8 gaps, 60.55% coverage
+2020-12-01 05:20:51,456 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.primer.bed
+2020-12-01 05:20:51,457 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.insert.bed
+2020-12-01 05:20:51,458 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.primer.tsv
+2020-12-01 05:20:51,458 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.reference.fasta
+2020-12-01 05:20:51,468 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.plot.pdf
+2020-12-01 05:20:51,468 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.plot.svg
+2020-12-01 05:20:51,505 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.report.json

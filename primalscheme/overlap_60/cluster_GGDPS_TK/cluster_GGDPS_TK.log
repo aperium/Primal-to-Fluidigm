@@ -1,0 +1,15 @@
+2020-12-01 05:22:26,740 - INFO - Writing log to overlap_60/cluster_GGDPS_TK/cluster_GGDPS_TK.log
+2020-12-01 05:22:26,746 - INFO - References:
+ - GGDPS1_TK
+ - GGDPS2_TK
+2020-12-01 05:22:26,746 - INFO - Primary reference for coordinate system: GGDPS1_TK
+2020-12-01 05:22:26,746 - INFO - Considering primers from all references
+2020-12-01 05:22:26,751 - INFO - Excluding reference GGDPS2_TK: unable to align.
+2020-12-01 05:22:27,400 - INFO - All done! Scheme created with 10 regions, 3 gaps, 69.67% coverage
+2020-12-01 05:22:27,400 - INFO - Writing overlap_60/cluster_GGDPS_TK/cluster_GGDPS_TK.primer.bed
+2020-12-01 05:22:27,407 - INFO - Writing overlap_60/cluster_GGDPS_TK/cluster_GGDPS_TK.insert.bed
+2020-12-01 05:22:27,408 - INFO - Writing overlap_60/cluster_GGDPS_TK/cluster_GGDPS_TK.primer.tsv
+2020-12-01 05:22:27,409 - INFO - Writing overlap_60/cluster_GGDPS_TK/cluster_GGDPS_TK.reference.fasta
+2020-12-01 05:22:27,414 - INFO - Writing overlap_60/cluster_GGDPS_TK/cluster_GGDPS_TK.plot.pdf
+2020-12-01 05:22:27,414 - INFO - Writing overlap_60/cluster_GGDPS_TK/cluster_GGDPS_TK.plot.svg
+2020-12-01 05:22:27,435 - INFO - Writing overlap_60/cluster_GGDPS_TK/cluster_GGDPS_TK.report.json

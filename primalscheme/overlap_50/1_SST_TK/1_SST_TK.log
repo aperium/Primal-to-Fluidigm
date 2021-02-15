@@ -1,0 +1,13 @@
+2020-12-01 05:20:04,432 - INFO - Writing log to overlap_50/1_SST_TK/1_SST_TK.log
+2020-12-01 05:20:04,475 - INFO - References:
+ - 1_SST_TK
+2020-12-01 05:20:04,475 - INFO - Primary reference for coordinate system: 1_SST_TK
+2020-12-01 05:20:04,475 - INFO - Considering primers from all references
+2020-12-01 05:20:06,580 - INFO - All done! Scheme created with 26 regions, 11 gaps, 76.81% coverage
+2020-12-01 05:20:06,581 - INFO - Writing overlap_50/1_SST_TK/1_SST_TK.primer.bed
+2020-12-01 05:20:06,582 - INFO - Writing overlap_50/1_SST_TK/1_SST_TK.insert.bed
+2020-12-01 05:20:06,583 - INFO - Writing overlap_50/1_SST_TK/1_SST_TK.primer.tsv
+2020-12-01 05:20:06,584 - INFO - Writing overlap_50/1_SST_TK/1_SST_TK.reference.fasta
+2020-12-01 05:20:06,632 - INFO - Writing overlap_50/1_SST_TK/1_SST_TK.plot.pdf
+2020-12-01 05:20:06,632 - INFO - Writing overlap_50/1_SST_TK/1_SST_TK.plot.svg
+2020-12-01 05:20:06,677 - INFO - Writing overlap_50/1_SST_TK/1_SST_TK.report.json

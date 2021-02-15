@@ -1,0 +1,13 @@
+2020-12-01 05:21:06,304 - INFO - Writing log to overlap_55/ETR1_TK/ETR1_TK.log
+2020-12-01 05:21:06,317 - INFO - References:
+ - ETR1_TK
+2020-12-01 05:21:06,317 - INFO - Primary reference for coordinate system: ETR1_TK
+2020-12-01 05:21:06,317 - INFO - Considering primers from all references
+2020-12-01 05:21:07,769 - INFO - All done! Scheme created with 23 regions, 8 gaps, 70.81% coverage
+2020-12-01 05:21:07,769 - INFO - Writing overlap_55/ETR1_TK/ETR1_TK.primer.bed
+2020-12-01 05:21:07,770 - INFO - Writing overlap_55/ETR1_TK/ETR1_TK.insert.bed
+2020-12-01 05:21:07,771 - INFO - Writing overlap_55/ETR1_TK/ETR1_TK.primer.tsv
+2020-12-01 05:21:07,772 - INFO - Writing overlap_55/ETR1_TK/ETR1_TK.reference.fasta
+2020-12-01 05:21:07,781 - INFO - Writing overlap_55/ETR1_TK/ETR1_TK.plot.pdf
+2020-12-01 05:21:07,781 - INFO - Writing overlap_55/ETR1_TK/ETR1_TK.plot.svg
+2020-12-01 05:21:07,822 - INFO - Writing overlap_55/ETR1_TK/ETR1_TK.report.json

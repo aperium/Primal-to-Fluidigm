@@ -1,0 +1,13 @@
+2020-12-01 05:23:01,228 - INFO - Writing log to overlap_65/FT_TK/FT_TK.log
+2020-12-01 05:23:01,241 - INFO - References:
+ - FT_TK
+2020-12-01 05:23:01,241 - INFO - Primary reference for coordinate system: FT_TK
+2020-12-01 05:23:01,241 - INFO - Considering primers from all references
+2020-12-01 05:23:03,916 - INFO - All done! Scheme created with 17 regions, 9 gaps, 63.52% coverage
+2020-12-01 05:23:03,917 - INFO - Writing overlap_65/FT_TK/FT_TK.primer.bed
+2020-12-01 05:23:03,918 - INFO - Writing overlap_65/FT_TK/FT_TK.insert.bed
+2020-12-01 05:23:03,919 - INFO - Writing overlap_65/FT_TK/FT_TK.primer.tsv
+2020-12-01 05:23:03,919 - INFO - Writing overlap_65/FT_TK/FT_TK.reference.fasta
+2020-12-01 05:23:03,928 - INFO - Writing overlap_65/FT_TK/FT_TK.plot.pdf
+2020-12-01 05:23:03,928 - INFO - Writing overlap_65/FT_TK/FT_TK.plot.svg
+2020-12-01 05:23:03,960 - INFO - Writing overlap_65/FT_TK/FT_TK.report.json

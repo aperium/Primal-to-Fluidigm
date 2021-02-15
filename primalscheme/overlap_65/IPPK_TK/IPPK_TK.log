@@ -1,0 +1,13 @@
+2020-12-01 05:23:06,745 - INFO - Writing log to overlap_65/IPPK_TK/IPPK_TK.log
+2020-12-01 05:23:06,756 - INFO - References:
+ - IPPK_TK
+2020-12-01 05:23:06,757 - INFO - Primary reference for coordinate system: IPPK_TK
+2020-12-01 05:23:06,757 - INFO - Considering primers from all references
+2020-12-01 05:23:07,202 - INFO - All done! Scheme created with 9 regions, 2 gaps, 77.72% coverage
+2020-12-01 05:23:07,202 - INFO - Writing overlap_65/IPPK_TK/IPPK_TK.primer.bed
+2020-12-01 05:23:07,203 - INFO - Writing overlap_65/IPPK_TK/IPPK_TK.insert.bed
+2020-12-01 05:23:07,203 - INFO - Writing overlap_65/IPPK_TK/IPPK_TK.primer.tsv
+2020-12-01 05:23:07,204 - INFO - Writing overlap_65/IPPK_TK/IPPK_TK.reference.fasta
+2020-12-01 05:23:07,208 - INFO - Writing overlap_65/IPPK_TK/IPPK_TK.plot.pdf
+2020-12-01 05:23:07,209 - INFO - Writing overlap_65/IPPK_TK/IPPK_TK.plot.svg
+2020-12-01 05:23:07,234 - INFO - Writing overlap_65/IPPK_TK/IPPK_TK.report.json
