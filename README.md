@@ -1,5 +1,10 @@
 # Primal-to-Fluidigm
+
 This is a workflow to produce well-designed primer pools for Fluidigm multiplexing on a 48.48 access array from the output of primal scheme and clustal omega.
+
+## Workflow Summary
+
+
 
 ## TODO
 
@@ -13,3 +18,12 @@ This is a workflow to produce well-designed primer pools for Fluidigm multiplexi
   - extra space for primers in any pool can be filled with gSSRs or other kinds of markers.
     - may require running primal scheme on these gSSRs.
 - [ ] improve flow with MAKE / Snakemake
+
+## Notes
+
+### Path on my local computer
+
+```bash
+/Users/$USER/Documents/GitHub/Primal-to-Fluidigm
+```
+
