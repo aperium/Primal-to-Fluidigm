@@ -5,8 +5,13 @@ This is a workflow to produce well-designed primer pools for Fluidigm multiplexi
 ## Workflow Summary
 
 1. Clustering of homologs
-   1. Generate a list of genomic sequences as fasta files
-   2. Submit to Clustal$\Omega$  
+   1. Generate a list of genomic sequences as fasta files.
+   2. Submit to Clustal Omega. 
+   3. Use tree to group highly related sequences.
+   4. Each group or ungrouped individual sequences get their own fasta files.
+2. Primer generation
+   1. Submit each fasta file to primal scheme with desired parameters
+   2. 
 
 ## TODO
 
