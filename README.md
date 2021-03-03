@@ -5,18 +5,29 @@ This is a workflow to produce well-designed primer pools for Fluidigm multiplexi
 ## Workflow Summary
 
 1. Clustering of homologous sequences
+
    1. Generate a list of genomic sequences as fasta files.
    2. Submit to Clustal Omega. 
    3. Use tree to group highly related sequences. Currently a manual process.
    4. Each group or ungrouped individual sequences get their own fasta files.
+
 2. Primer generation ([more detail](primalscheme/README.md))
+
    1. Submit each fasta file to primal scheme with desired parameters using `runprimalscheme.sh`
    2. Extract and prepare the coverage log summary and produce visusuals using
       1. `grepcoverage.sh`
       2. `formatcoverage.R`
       3. `analyzecoverage.R`
+
 3. Design of fluidigm pools ([more detail](fluidigm_pool_design/README.md))
-   1. 
+
+   1. Retrieve full list of primers using `fetchprimers.sh`
+   2. Separate primers into two pools based on overlap as specified by primal scheme using ` separatepools.R`
+   3. Submit each pool to clustal omega.
+   4. Generate pairwise comparison of primer identity using `assessmatricies.R`
+   5. Split primary pools (designed by primalsceme) into secondary and tertiary pools to minimize identity while keeping pairs together.
+
+   
 
 ## TODO
 
