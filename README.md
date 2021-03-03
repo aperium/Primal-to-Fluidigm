@@ -34,6 +34,7 @@ This is a workflow to produce well-designed primer pools for Fluidigm multiplexi
 - [ ] write up the basic scope, design, and expected behaviour.
 - [x] copy over those files that are relevant to this improved version.
 - [x] add access to data inputs, probably by coping the data into a subdirectory in this repository.
+- [ ] Allow specification of which genes/genomic sequences to use for primer generation.
 - [ ] add functionality to split pools designed by primal scheme into pools designed for multiplexing with the 48.48 access array.
   - no more than 10 primer pairs in any well on the daughter plate
   - no more than 80 primer pairs in any columb on the daughter plate (and 80 total on the mother plate, leaving the last two columns empty for buffers)
