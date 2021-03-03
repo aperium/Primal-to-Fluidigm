@@ -9,9 +9,12 @@ This is a workflow to produce well-designed primer pools for Fluidigm multiplexi
    2. Submit to Clustal Omega. 
    3. Use tree to group highly related sequences.
    4. Each group or ungrouped individual sequences get their own fasta files.
-2. Primer generation
-   1. Submit each fasta file to primal scheme with desired parameters
-   2. 
+2. Primer generation (more detail)[primalscheme/readme.md]
+   1. Submit each fasta file to primal scheme with desired parameters using `runprimalscheme.sh`
+   2. `grepcoverage.sh`
+   3. `formatcoverage.R`
+   4. `analyzecoverage.R`
+3. 
 
 ## TODO
 
