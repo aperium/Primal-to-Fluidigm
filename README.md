@@ -39,7 +39,7 @@ This is a workflow to produce well-designed primer pools for Fluidigm multiplexi
   - [ ] Reduce further to:
     - Rubber genes
       - CPT2
-    - Ones from the paper (Zinan Luo paper)
+    - Ones from the paper (Zinan Luo paper) ?
     - Flowering time
       - FT
       - FLC
@@ -52,6 +52,7 @@ This is a workflow to produce well-designed primer pools for Fluidigm multiplexi
   - each multiplexing pool avoids overlapping amplicons.
   - extra space for primers in any pool can be filled with gSSRs or other kinds of markers.
     - may require running primal scheme on these gSSRs.
+  - recommendations from Fluidigm to not to combine primers that are close to each other on the genome (separated by 5Kb) within each pool and to check in silico for primer dimer formation and priming within PCR products for each pool.
 - [ ] improve flow with MAKE / Snakemake
 
 ## Notes
