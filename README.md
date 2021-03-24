@@ -27,8 +27,8 @@ I chose this project because it is important to a part of my research. I had alr
 
    1. Submit each fasta file to primal scheme with desired parameters using `runprimalscheme.sh`. This uses SLURM and a Singularity shell.
    2. Extract and prepare the coverage log summary and produce visusuals using
-      1. `grepcoverage.sh`  pulls information from output files of primalscheme.
-      2. `formatcoverage.R`  improves readability and formatting of the data from primalscheme.
+      1. `grepcoverage.sh`  pulls coverage information from output files of primalscheme.
+      2. `formatcoverage.R`  improves readability and formatting of the coverage data from primalscheme.
       3. `analyzecoverage.R` produces visual analysis of the results from primalscheme. Useful for determining if primalscheme did a good job designing amplicons given the set of constraining parameters. May help selection of best set of parameters to use for amplicon design.
 
 3. Design of fluidigm pools ([more detail](fluidigm_pool_design/README.md))
@@ -37,7 +37,7 @@ I chose this project because it is important to a part of my research. I had alr
    2. Separate primers into two pools based on overlap as specified by primal scheme using ` separatepools.R`
    3. Submit each pool to clustal omega.
    4. Generate pairwise comparison of primer identity using `assessmatricies.R`
-   5. Split primary pools (designed by primalsceme) into secondary and tertiary pools to minimize identity while keeping pairs together.
+   5. Split primary pools (designed by primalsceme) into secondary and tertiary pools to minimize identity while keeping pairs together. `splitpools.R`
 
    
 
@@ -65,11 +65,11 @@ I chose this project because it is important to a part of my research. I had alr
   - extra space for primers in any pool can be filled with gSSRs or other kinds of markers.
     - may require running primal scheme on these gSSRs.
   - recommendations from Fluidigm to not to combine primers that are close to each other on the genome (separated by 5Kb) within each pool and to check in silico for primer dimer formation and priming within PCR products for each pool.
-- [ ] improve flow with MAKE / Snakemake
+- [ ] improve flow with Snakemake or a Shell script.
 
 ## Notes
 
-### Path on my local computer
+### Path on my local computer (so I don’t forget)
 
 ```bash
 /Users/$USER/Documents/GitHub/Primal-to-Fluidigm
