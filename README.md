@@ -4,7 +4,11 @@ This is a workflow to produce well-designed primer pools for Fluidigm multiplexi
 
 Input data is a list of genomic sequences, typically genes and flanking regions, and relevant design parameters for the ampseq system. Output will include a list of predicted amplicons, the primers to generate those amplicons, and the relevant positional information and reaction specifications.
 
-R scripts will handle most of the data transformation. Bash scripts are used for execution of scripts and some data gathering processes. 
+R scripts will handle most of the data transformation. Shell scripts are used for execution of scripts and some data gathering processes. A major component, primalsceme, is run inside a singularity shell and requires execution via SLURM. I am planning to use Snakemake to easily run all the components, but we haven’t covered that yet. Alternatively, I may use a shell script.
+
+I have areas of uncertainty in my ability to make this perform as a polished pipeline. First, I have never used Snakemake and don’t know how it might work or be executed. Second, part of my workflow requires using Clustal Omega, which I have been accessing via a web portal. I don’t know if I will be able to automate web portal access and results retrieval. Alternatively, I believe clustal omega can be run as a script, but I’d probably have to set it up in Singularity. Third, designing the pipeline to be flexible for a wide range of parameters could be tricky. So for I have only tested parts of this workflow on a very narrow set of parameters specific to the Fluidigm 48.48 access array and illumina sequencing. I also have only tested it on a carefully selected set of genomic regions. I have no good ideas how to handle exceptions gracefully at this time, other than simply exiting and reporting the exceptions when possible.
+
+I chose this project because it is important to a part of my research. I had already constructed a core set of scripts for a very narrow application. I thought it would be useful to make the execution smoother and the pipeline more flexible. This project also forces me to address some of the areas of coding that I am less comfortable with, hence the current gaps in flow and requirements for manual labor at certain steps.
 
 
 
@@ -19,7 +23,7 @@ R scripts will handle most of the data transformation. Bash scripts are used for
 
 2. Primer generation ([more detail](primalscheme/README.md))
 
-   1. Submit each fasta file to primal scheme with desired parameters using `runprimalscheme.sh`
+   1. Using SLURM, submit each fasta file to primal scheme with desired parameters using `runprimalscheme.sh` 
    2. Extract and prepare the coverage log summary and produce visusuals using
       1. `grepcoverage.sh`
       2. `formatcoverage.R`
@@ -37,7 +41,7 @@ R scripts will handle most of the data transformation. Bash scripts are used for
 
 ## TODO
 
-- [ ] write up the basic scope, design, and expected behaviour.
+- [x] write up the basic scope, design, and expected behaviour.
 - [x] copy over those files that are relevant to this improved version.
 - [x] add access to data inputs, probably by coping the data into a subdirectory in this repository.
 - [ ] Allow specification of which genes/genomic sequences to use for primer generation.
