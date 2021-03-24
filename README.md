@@ -2,6 +2,10 @@
 
 This is a workflow to produce well-designed primer pools for Fluidigm multiplexing on a 48.48 access array from the output of primal scheme and clustal omega. It should work generally for any similar multiplexing ampseq process by adjusting relevant parameters like pool size, amplicon length, and overlap.
 
+Input data is a list of genomic sequences, typically genes and flanking regions, and relevant design parameters for the ampseq system. Output will include a list of predicted amplicons, the primers to generate those amplicons, and the relevant positional information and reaction specifications.
+
+R scripts will handle most of the data transformation. Bash scripts are used for execution of scripts and some data gathering processes. 
+
 
 
 ## Workflow Summary
