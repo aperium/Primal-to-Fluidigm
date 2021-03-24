@@ -10,5 +10,5 @@
 
 5. Split primary pools (designed by primalsceme) into secondary and tertiary pools to minimize identity while keeping pairs together.
 
-   [ ] write a script to automate this.
+   [ ] write a script to automate this: `splitpools.R`
 
