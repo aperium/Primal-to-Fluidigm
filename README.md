@@ -47,7 +47,7 @@ I chose this project because it is important to a part of my research. I had alr
 - [x] copy over those files that are relevant to this improved version.
 - [x] add access to data inputs, probably by coping the data into a subdirectory in this repository.
 - [ ] Reconfigure PrimalScheme
-  - [ ] Download repo
+  - [ ] Download [PrimalScheme repo](https://github.com/aresti/primalscheme)
   - [ ] Modify *T*~m~ parameters (60-68º or find way to let user specify at runtime)
     - [@quick2017](https://www.nature.com/articles/nprot.2017.066) recommends *T*~m~ > 65º and long annealing times
     - @qiagen2016 recommends *T*~m~ ≥ 68º
