@@ -21,7 +21,7 @@ module load R
 Rscript makefastas.R $AMPMIN $AMPMAX $OVERLAP
 ```
 
-**Optional:** Cluster by tree output using Clustal$\Omega$. This is an optional manual process for the moment. Only really useful if some of the genes have very high sequence similarity to each other because they are homologs.
+**Optional:** Cluster by tree output using Clustal$\Omega$. This is an optional manual process for the moment. Only really useful if some of the genes have very high sequence similarity to each other because they are homologs. Clustered genes must be similar in length or PrimalScheme will reject the cluster. Combine genes in each cluster into a single fasta file with each gene as a separate record.
 
 ## 2. Install PrimalScheme as a Python3 virtual environment
 
