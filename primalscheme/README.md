@@ -11,7 +11,24 @@ Run the scripts in this order:
 
 Clustered by tree using Clustal$\Omega$.
 
-## 2. Run primal scheme
+## 2. Install PrimalScheme as a Python3 virtual environment
+
+These steps based on [PrimalScheme’s GitHub](https://github.com/aresti/primalscheme/blob/master/README.md). Installing from source for more configuration options.
+
+```shell
+# move to appropriate directory
+
+git clone https://github.com/aresti/primalscheme.git primalscheme
+cd primalscheme
+python3 -m venv venv
+source venv/bin/activate
+pip install flit
+flit install --pth-file
+```
+
+
+
+## old - 2. Run primal scheme
 
 ```{shell}
 cd /fs/scratch/PAS1755/drw_wd/reduced_primal_by_clustal/primalscheme/
@@ -34,7 +51,7 @@ exit
 
 
 
-## 3. Copy over existing primal output for genes run separately (if needed)
+## old - 3. Copy over existing primal output for genes run separately (if needed)
 
 ```{shell}
 cd /fs/scratch/PAS1755/drw_wd/reduced_primal_by_clustal/primalscheme/
@@ -52,7 +69,7 @@ for OVERLAP in ${OVERLAPS[@]}; do for GENE in ${LIST[@]}; do primalscheme multip
 
 
 
-## 4. Extract and prepare the coverage log summary and produce visusuals
+## old - 4. Extract and prepare the coverage log summary and produce visusuals
 
 ```{shell}
 cd /fs/scratch/PAS1755/drw_wd/reduced_primal_by_clustal/primalscheme/
