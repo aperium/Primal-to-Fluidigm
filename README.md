@@ -49,9 +49,12 @@ I chose this project because it is important to a part of my research. I had alr
 - [ ] Reconfigure PrimalScheme
   - [ ] Download [PrimalScheme repo](https://github.com/aresti/primalscheme)
   - [ ] Modify *T*~m~ parameters (60-68º or find way to let user specify at runtime)
-    - [@quick2017](https://www.nature.com/articles/nprot.2017.066) recommends *T*~m~ > 65º and long annealing times
+    - [@quick2017](https://www.nature.com/articles/nprot.2017.066) recommends *T*~annealing~ > 65º and long annealing times
+      - I think that is the temperature for the PCR annealing step?
+      - In the `config.py` file: *T*~m_min~ = 59.5º; *T*~m_max~ = 62.5º; *T*~m_optimal~ = 61.0º;  
     - @qiagen2016 recommends *T*~m~ ≥ 68º
   - [ ] Set up in Singularity or Docker shell
+    - I’m not sure I actually need to set it up in virtualization shell. It’s all python so I should be able to run it in a python environment.
 - [ ] Allow specification of which genes/genomic sequences to use for primer generation.
   - Priority list of genes [here](gene_clustering/reduced_genes_list_27nov2020.xlsx)
   - [ ] Reduce further to:
