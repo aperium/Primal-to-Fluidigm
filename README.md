@@ -58,6 +58,7 @@ I chose this project because it is important to a part of my research. I had alr
     - [ ] ~~Set up in Singularity or Docker shell~~
     - I’m not sure I actually need to set it up in virtualization shell. It’s all python so I should be able to run it in a python environment.
     - [x] Installed with Python Virtual enviornment instead of Docker/Singularity
+ - [ ] Set up code for execution via SLURM.
   - [ ] Test output
 - [ ] Allow specification of which genes/genomic sequences to use for primer generation.
   - Priority list of genes [here](gene_clustering/reduced_genes_list_27nov2020.xlsx)
