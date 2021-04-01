@@ -49,7 +49,7 @@ I chose this project because it is important to a part of my research. I had alr
 - [ ] Reconfigure PrimalScheme
   - [ ] Download repo
   - [ ] Modify *T*~m~ parameters (60-68º or find way to let user specify at runtime)
-    - @quick2017 recommends *T*~m~ > 65º and long annealing times
+    - [@quick2017](https://www.nature.com/articles/nprot.2017.066) recommends *T*~m~ > 65º and long annealing times
     - @qiagen2016 recommends *T*~m~ ≥ 68º
   - [ ] Set up in Singularity or Docker shell
 - [ ] Allow specification of which genes/genomic sequences to use for primer generation.
