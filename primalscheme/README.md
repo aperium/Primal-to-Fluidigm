@@ -2,14 +2,26 @@
 
 Run the scripts in this order:
 
+1. `makefastas.R`
+
 2. `runprimalscheme.sh`
 3. `grepcoverage.sh`
 4. `formatcoverage.R`
 5. `analyzecoverage.R`
 
-## 1. Prepare fasta files
+## 1. Prepare fasta files and matching primal scheme script, and set parameters
 
-Clustered by tree using Clustal$\Omega$. This is a manual process for the moment.
+```{shell}
+# These are determined by PCR requirements. FLuidigm has strict parameters. Illumina MiSeq is less picky.
+AMPMIN=180
+AMPMAX=500
+OVERLAP=70
+
+module load R
+Rscript makefastas.R $AMPMIN $AMPMAX $OVERLAP
+```
+
+**Optional:** Cluster by tree output using Clustal$\Omega$. This is an optional manual process for the moment. Only really useful if some of the genes have very high sequence similarity to each other because they are homologs.
 
 ## 2. Install PrimalScheme as a Python3 virtual environment
 
