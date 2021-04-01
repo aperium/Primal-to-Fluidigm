@@ -46,6 +46,10 @@ I chose this project because it is important to a part of my research. I had alr
 - [x] write up the basic scope, design, and expected behaviour.
 - [x] copy over those files that are relevant to this improved version.
 - [x] add access to data inputs, probably by coping the data into a subdirectory in this repository.
+- [ ] Reconfigure PrimalScheme
+  - [ ] Download repo
+  - [ ] Modify T~m~ parameters (60-68º or find way to let user specify at runtime)
+  - [ ] Set up in Singularity or Docker shell
 - [ ] Allow specification of which genes/genomic sequences to use for primer generation.
   - Priority list of genes [here](gene_clustering/reduced_genes_list_27nov2020.xlsx)
   - [ ] Reduce further to:
