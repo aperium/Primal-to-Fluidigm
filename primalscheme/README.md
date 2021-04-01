@@ -9,7 +9,7 @@ Run the scripts in this order:
 
 ## 1. Prepare fasta files
 
-Clustered by tree using Clustal$\Omega$.
+Clustered by tree using Clustal$\Omega$. This is a manual process for the moment.
 
 ## 2. Install PrimalScheme as a Python3 virtual environment
 
@@ -17,13 +17,54 @@ These steps based on [PrimalScheme’s GitHub](https://github.com/aresti/primals
 
 ```shell
 # move to appropriate directory
+cd /fs/scratch/PAS1755/drw_wd/
 
+# load the latest python
+module spider python
+module load python/3.7-2019.10
+
+# install from source in editable mode
 git clone https://github.com/aresti/primalscheme.git primalscheme
 cd primalscheme
 python3 -m venv venv
 source venv/bin/activate
+pip install --upgrade pip # added to upgrade pip
+pip install .
 pip install flit
 flit install --pth-file
+
+# test
+primalscheme -V
+
+# exit environment
+deactivate
+
+```
+
+
+
+## 3. Configure PrimalScheme
+
+The configuration file is located at `/fs/scratch/PAS1755/drw_wd/primalscheme/src/primalscheme/config.py`. Manually edit this file to change parameters that are not available from CLI (like *T*~m~).
+
+
+
+## 4. Run PrimalScheme from Python environment
+
+```shell
+# open correct python env
+module load python/3.7-2019.10
+source /fs/scratch/PAS1755/drw_wd/primalscheme/venv/bin/activate
+
+# test
+primalscheme -V
+
+# execute primalscheme here...
+#TODO
+
+# exit environment
+deactivate
+
 ```
 
 
