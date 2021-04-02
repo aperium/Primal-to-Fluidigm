@@ -1,22 +1,15 @@
-reqpacks <- c("tidyverse","stringr","magrittr","openxlsx","fs")
-packstoinstall <- setdiff(reqpacks,installed.packages()[,1])
-if(length(packstoinstall) > 0) install.packages(packstoinstall)
-
-library("tidyverse")
-library("stringr")
-library("magrittr")
-library("openxlsx")
-library("fs")
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, magrittr, stringr, openxlsx, fs)
 
 # set working directory
 # getwd()
-setwd("/fs/scratch/PAS1755/drw_wd/")
+setwd("/fs/scratch/PAS1755/drw_wd/primalscheme/")
 
 # set primal scheme parameters
 args = commandArgs(trailingOnly = TRUE)
 if (length(args) == 0) {
   ampmin <- 180
-  ampmax <- 200
+  ampmax <- 500
   overlap <- 70 
 } else {
     ampmin <- args[1]
