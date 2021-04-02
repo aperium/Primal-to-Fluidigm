@@ -11,14 +11,20 @@ Run the scripts in this order:
 
 ## 1. Prepare fasta files and matching primal scheme script, and set parameters
 
+The parameters are also hard-coded in `makefastas.R` if no parameters are provided.
+
 ```{shell}
 # These are determined by PCR requirements. FLuidigm has strict parameters. Illumina MiSeq is less picky.
 AMPMIN=180
 AMPMAX=500
 OVERLAP=70
+INPATH="TK_Amplicons_090319.xlsx"
+SHEET=4
+NAME="Short.name"
+SEQ="seq"
 
 module load R
-Rscript makefastas.R $AMPMIN $AMPMAX $OVERLAP
+Rscript makefastas.R $AMPMIN $AMPMAX $OVERLAP $INPATH $SHEET $NAME $SEQ
 ```
 
 **Optional:** Cluster by tree output using Clustal$\Omega$. This is an optional manual process for the moment. Only really useful if some of the genes have very high sequence similarity to each other because they are homologs. Clustered genes must be similar in length or PrimalScheme will reject the cluster. Combine genes in each cluster into a single fasta file with each gene as a separate record.
@@ -64,6 +70,9 @@ The configuration file is located at `/fs/scratch/PAS1755/drw_wd/primalscheme/sr
 ## 4. Run PrimalScheme from Python environment
 
 ```shell
+# open SLRUM
+#TODO
+
 # open correct python env
 module load python/3.7-2019.10
 source /fs/scratch/PAS1755/drw_wd/primalscheme/venv/bin/activate
@@ -72,7 +81,7 @@ source /fs/scratch/PAS1755/drw_wd/primalscheme/venv/bin/activate
 primalscheme -V
 
 # execute primalscheme here...
-#TODO
+runprimalscheme.sh
 
 # exit environment
 deactivate
