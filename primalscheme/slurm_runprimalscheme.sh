@@ -1,8 +1,10 @@
 #!/bin/bash
 #SBATCH --account=PAS1755
-#SBATCH --time=120
+#SBATCH --time=30
 #SBATCH --output=slurm-runprimalscheme-%j.out
 set -e -u -o pipefail
+
+# execution takes about 15 min for the 103 genes
 
 # move to directory
 cd /fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme
