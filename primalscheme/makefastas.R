@@ -3,8 +3,8 @@ pacman::p_load(tidyverse, magrittr, stringr, openxlsx, fs)
 
 # set working directory
 # getwd()
-setwd("/fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme/")
-# setwd("/Users/aperium/Documents/GitHub/Primal-to-Fluidigm/primalscheme")
+# setwd("/fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme/")
+setwd("/Users/aperium/Documents/GitHub/Primal-to-Fluidigm/primalscheme")
 
 # set primal scheme parameters
 args = commandArgs(trailingOnly = TRUE)
