@@ -1,0 +1,13 @@
+2021-04-03 01:35:48,179 - INFO - Writing log to overlap_55/SYP124_TK/SYP124_TK.log
+2021-04-03 01:35:48,188 - INFO - References:
+ - SYP124_TK
+2021-04-03 01:35:48,188 - INFO - Primary reference for coordinate system: SYP124_TK
+2021-04-03 01:35:48,188 - INFO - Considering primers from all references
+2021-04-03 01:35:51,158 - INFO - All done! Scheme created with 4 regions, 0 gaps, 62.41% coverage
+2021-04-03 01:35:51,158 - INFO - Writing overlap_55/SYP124_TK/SYP124_TK.primer.bed
+2021-04-03 01:35:51,159 - INFO - Writing overlap_55/SYP124_TK/SYP124_TK.insert.bed
+2021-04-03 01:35:51,160 - INFO - Writing overlap_55/SYP124_TK/SYP124_TK.primer.tsv
+2021-04-03 01:35:51,161 - INFO - Writing overlap_55/SYP124_TK/SYP124_TK.reference.fasta
+2021-04-03 01:35:51,165 - INFO - Writing overlap_55/SYP124_TK/SYP124_TK.plot.pdf
+2021-04-03 01:35:51,165 - INFO - Writing overlap_55/SYP124_TK/SYP124_TK.plot.svg
+2021-04-03 01:35:51,223 - INFO - Writing overlap_55/SYP124_TK/SYP124_TK.report.json

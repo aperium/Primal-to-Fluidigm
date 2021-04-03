@@ -1,0 +1,13 @@
+2021-04-03 02:00:00,466 - INFO - Writing log to overlap_65/EG_TK/EG_TK.log
+2021-04-03 02:00:00,486 - INFO - References:
+ - EG_TK
+2021-04-03 02:00:00,486 - INFO - Primary reference for coordinate system: EG_TK
+2021-04-03 02:00:00,487 - INFO - Considering primers from all references
+2021-04-03 02:00:12,060 - INFO - All done! Scheme created with 15 regions, 3 gaps, 85.86% coverage
+2021-04-03 02:00:12,060 - INFO - Writing overlap_65/EG_TK/EG_TK.primer.bed
+2021-04-03 02:00:12,061 - INFO - Writing overlap_65/EG_TK/EG_TK.insert.bed
+2021-04-03 02:00:12,062 - INFO - Writing overlap_65/EG_TK/EG_TK.primer.tsv
+2021-04-03 02:00:12,063 - INFO - Writing overlap_65/EG_TK/EG_TK.reference.fasta
+2021-04-03 02:00:12,073 - INFO - Writing overlap_65/EG_TK/EG_TK.plot.pdf
+2021-04-03 02:00:12,073 - INFO - Writing overlap_65/EG_TK/EG_TK.plot.svg
+2021-04-03 02:00:12,111 - INFO - Writing overlap_65/EG_TK/EG_TK.report.json

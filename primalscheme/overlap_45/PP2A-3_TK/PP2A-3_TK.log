@@ -1,0 +1,13 @@
+2021-04-03 00:59:06,753 - INFO - Writing log to overlap_45/PP2A-3_TK/PP2A-3_TK.log
+2021-04-03 00:59:06,763 - INFO - References:
+ - PP2A-3_TK
+2021-04-03 00:59:06,763 - INFO - Primary reference for coordinate system: PP2A-3_TK
+2021-04-03 00:59:06,763 - INFO - Considering primers from all references
+2021-04-03 00:59:19,238 - INFO - All done! Scheme created with 15 regions, 6 gaps, 81.39% coverage
+2021-04-03 00:59:19,238 - INFO - Writing overlap_45/PP2A-3_TK/PP2A-3_TK.primer.bed
+2021-04-03 00:59:19,239 - INFO - Writing overlap_45/PP2A-3_TK/PP2A-3_TK.insert.bed
+2021-04-03 00:59:19,240 - INFO - Writing overlap_45/PP2A-3_TK/PP2A-3_TK.primer.tsv
+2021-04-03 00:59:19,241 - INFO - Writing overlap_45/PP2A-3_TK/PP2A-3_TK.reference.fasta
+2021-04-03 00:59:19,252 - INFO - Writing overlap_45/PP2A-3_TK/PP2A-3_TK.plot.pdf
+2021-04-03 00:59:19,253 - INFO - Writing overlap_45/PP2A-3_TK/PP2A-3_TK.plot.svg
+2021-04-03 00:59:19,292 - INFO - Writing overlap_45/PP2A-3_TK/PP2A-3_TK.report.json

@@ -11,3 +11,16 @@
 2021-04-02 20:50:36,618 - INFO - Writing overlap_70/TCTP2_TK/TCTP2_TK.plot.pdf
 2021-04-02 20:50:36,618 - INFO - Writing overlap_70/TCTP2_TK/TCTP2_TK.plot.svg
 2021-04-02 20:50:36,634 - INFO - Writing overlap_70/TCTP2_TK/TCTP2_TK.report.json
+2021-04-03 02:25:26,461 - INFO - Writing log to overlap_70/TCTP2_TK/TCTP2_TK.log
+2021-04-03 02:25:26,489 - INFO - References:
+ - TCTP2_TK
+2021-04-03 02:25:26,489 - INFO - Primary reference for coordinate system: TCTP2_TK
+2021-04-03 02:25:26,490 - INFO - Considering primers from all references
+2021-04-03 02:25:28,754 - INFO - All done! Scheme created with 3 regions, 1 gap, 58.99% coverage
+2021-04-03 02:25:28,754 - INFO - Writing overlap_70/TCTP2_TK/TCTP2_TK.primer.bed
+2021-04-03 02:25:28,759 - INFO - Writing overlap_70/TCTP2_TK/TCTP2_TK.insert.bed
+2021-04-03 02:25:28,764 - INFO - Writing overlap_70/TCTP2_TK/TCTP2_TK.primer.tsv
+2021-04-03 02:25:28,769 - INFO - Writing overlap_70/TCTP2_TK/TCTP2_TK.reference.fasta
+2021-04-03 02:25:28,776 - INFO - Writing overlap_70/TCTP2_TK/TCTP2_TK.plot.pdf
+2021-04-03 02:25:28,776 - INFO - Writing overlap_70/TCTP2_TK/TCTP2_TK.plot.svg
+2021-04-03 02:25:28,801 - INFO - Writing overlap_70/TCTP2_TK/TCTP2_TK.report.json

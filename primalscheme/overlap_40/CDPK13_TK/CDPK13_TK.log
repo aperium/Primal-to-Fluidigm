@@ -1,0 +1,13 @@
+2021-04-03 00:35:06,717 - INFO - Writing log to overlap_40/CDPK13_TK/CDPK13_TK.log
+2021-04-03 00:35:06,737 - INFO - References:
+ - CDPK13_TK
+2021-04-03 00:35:06,737 - INFO - Primary reference for coordinate system: CDPK13_TK
+2021-04-03 00:35:06,737 - INFO - Considering primers from all references
+2021-04-03 00:35:14,572 - INFO - All done! Scheme created with 10 regions, 1 gap, 83.5% coverage
+2021-04-03 00:35:14,572 - INFO - Writing overlap_40/CDPK13_TK/CDPK13_TK.primer.bed
+2021-04-03 00:35:14,573 - INFO - Writing overlap_40/CDPK13_TK/CDPK13_TK.insert.bed
+2021-04-03 00:35:14,574 - INFO - Writing overlap_40/CDPK13_TK/CDPK13_TK.primer.tsv
+2021-04-03 00:35:14,575 - INFO - Writing overlap_40/CDPK13_TK/CDPK13_TK.reference.fasta
+2021-04-03 00:35:14,583 - INFO - Writing overlap_40/CDPK13_TK/CDPK13_TK.plot.pdf
+2021-04-03 00:35:14,583 - INFO - Writing overlap_40/CDPK13_TK/CDPK13_TK.plot.svg
+2021-04-03 00:35:14,614 - INFO - Writing overlap_40/CDPK13_TK/CDPK13_TK.report.json

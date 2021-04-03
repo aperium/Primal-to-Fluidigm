@@ -1,0 +1,13 @@
+2021-04-03 01:40:23,182 - INFO - Writing log to overlap_60/ADPATC2_TK/ADPATC2_TK.log
+2021-04-03 01:40:23,191 - INFO - References:
+ - ADPATC2_TK
+2021-04-03 01:40:23,191 - INFO - Primary reference for coordinate system: ADPATC2_TK
+2021-04-03 01:40:23,191 - INFO - Considering primers from all references
+2021-04-03 01:40:27,697 - INFO - All done! Scheme created with 6 regions, 1 gap, 66.93% coverage
+2021-04-03 01:40:27,697 - INFO - Writing overlap_60/ADPATC2_TK/ADPATC2_TK.primer.bed
+2021-04-03 01:40:27,698 - INFO - Writing overlap_60/ADPATC2_TK/ADPATC2_TK.insert.bed
+2021-04-03 01:40:27,699 - INFO - Writing overlap_60/ADPATC2_TK/ADPATC2_TK.primer.tsv
+2021-04-03 01:40:27,700 - INFO - Writing overlap_60/ADPATC2_TK/ADPATC2_TK.reference.fasta
+2021-04-03 01:40:27,705 - INFO - Writing overlap_60/ADPATC2_TK/ADPATC2_TK.plot.pdf
+2021-04-03 01:40:27,705 - INFO - Writing overlap_60/ADPATC2_TK/ADPATC2_TK.plot.svg
+2021-04-03 01:40:27,728 - INFO - Writing overlap_60/ADPATC2_TK/ADPATC2_TK.report.json

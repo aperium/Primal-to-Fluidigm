@@ -1,0 +1,13 @@
+2021-04-03 00:50:26,394 - INFO - Writing log to overlap_45/ALS_TK/ALS_TK.log
+2021-04-03 00:50:26,423 - INFO - References:
+ - ALS_TK
+2021-04-03 00:50:26,423 - INFO - Primary reference for coordinate system: ALS_TK
+2021-04-03 00:50:26,423 - INFO - Considering primers from all references
+2021-04-03 00:51:16,194 - INFO - All done! Scheme created with 58 regions, 22 gaps, 88.83% coverage
+2021-04-03 00:51:16,194 - INFO - Writing overlap_45/ALS_TK/ALS_TK.primer.bed
+2021-04-03 00:51:16,197 - INFO - Writing overlap_45/ALS_TK/ALS_TK.insert.bed
+2021-04-03 00:51:16,198 - INFO - Writing overlap_45/ALS_TK/ALS_TK.primer.tsv
+2021-04-03 00:51:16,200 - INFO - Writing overlap_45/ALS_TK/ALS_TK.reference.fasta
+2021-04-03 00:51:16,232 - INFO - Writing overlap_45/ALS_TK/ALS_TK.plot.pdf
+2021-04-03 00:51:16,232 - INFO - Writing overlap_45/ALS_TK/ALS_TK.plot.svg
+2021-04-03 00:51:16,345 - INFO - Writing overlap_45/ALS_TK/ALS_TK.report.json

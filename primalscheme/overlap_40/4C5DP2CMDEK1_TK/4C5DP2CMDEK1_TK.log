@@ -1,0 +1,13 @@
+2021-04-03 00:32:40,678 - INFO - Writing log to overlap_40/4C5DP2CMDEK1_TK/4C5DP2CMDEK1_TK.log
+2021-04-03 00:32:40,698 - INFO - References:
+ - 4C5DP2CMDEK1_TK
+2021-04-03 00:32:40,698 - INFO - Primary reference for coordinate system: 4C5DP2CMDEK1_TK
+2021-04-03 00:32:40,698 - INFO - Considering primers from all references
+2021-04-03 00:32:51,126 - INFO - All done! Scheme created with 13 regions, 4 gaps, 86.11% coverage
+2021-04-03 00:32:51,126 - INFO - Writing overlap_40/4C5DP2CMDEK1_TK/4C5DP2CMDEK1_TK.primer.bed
+2021-04-03 00:32:51,127 - INFO - Writing overlap_40/4C5DP2CMDEK1_TK/4C5DP2CMDEK1_TK.insert.bed
+2021-04-03 00:32:51,128 - INFO - Writing overlap_40/4C5DP2CMDEK1_TK/4C5DP2CMDEK1_TK.primer.tsv
+2021-04-03 00:32:51,129 - INFO - Writing overlap_40/4C5DP2CMDEK1_TK/4C5DP2CMDEK1_TK.reference.fasta
+2021-04-03 00:32:51,138 - INFO - Writing overlap_40/4C5DP2CMDEK1_TK/4C5DP2CMDEK1_TK.plot.pdf
+2021-04-03 00:32:51,138 - INFO - Writing overlap_40/4C5DP2CMDEK1_TK/4C5DP2CMDEK1_TK.plot.svg
+2021-04-03 00:32:51,170 - INFO - Writing overlap_40/4C5DP2CMDEK1_TK/4C5DP2CMDEK1_TK.report.json

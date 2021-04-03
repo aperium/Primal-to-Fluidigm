@@ -1,0 +1,13 @@
+2021-04-03 01:02:16,767 - INFO - Writing log to overlap_45/STKWNK_TK/STKWNK_TK.log
+2021-04-03 01:02:16,776 - INFO - References:
+ - STKWNK_TK
+2021-04-03 01:02:16,776 - INFO - Primary reference for coordinate system: STKWNK_TK
+2021-04-03 01:02:16,776 - INFO - Considering primers from all references
+2021-04-03 01:02:18,200 - INFO - All done! Scheme created with 2 regions, 0 gaps, 41.74% coverage
+2021-04-03 01:02:18,201 - INFO - Writing overlap_45/STKWNK_TK/STKWNK_TK.primer.bed
+2021-04-03 01:02:18,201 - INFO - Writing overlap_45/STKWNK_TK/STKWNK_TK.insert.bed
+2021-04-03 01:02:18,202 - INFO - Writing overlap_45/STKWNK_TK/STKWNK_TK.primer.tsv
+2021-04-03 01:02:18,203 - INFO - Writing overlap_45/STKWNK_TK/STKWNK_TK.reference.fasta
+2021-04-03 01:02:18,206 - INFO - Writing overlap_45/STKWNK_TK/STKWNK_TK.plot.pdf
+2021-04-03 01:02:18,207 - INFO - Writing overlap_45/STKWNK_TK/STKWNK_TK.plot.svg
+2021-04-03 01:02:18,223 - INFO - Writing overlap_45/STKWNK_TK/STKWNK_TK.report.json

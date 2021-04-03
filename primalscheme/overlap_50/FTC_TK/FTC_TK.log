@@ -11,3 +11,16 @@
 2020-12-01 05:20:29,401 - INFO - Writing overlap_50/FTC_TK/FTC_TK.plot.pdf
 2020-12-01 05:20:29,402 - INFO - Writing overlap_50/FTC_TK/FTC_TK.plot.svg
 2020-12-01 05:20:29,476 - INFO - Writing overlap_50/FTC_TK/FTC_TK.report.json
+2021-04-03 01:10:49,373 - INFO - Writing log to overlap_50/FTC_TK/FTC_TK.log
+2021-04-03 01:10:49,411 - INFO - References:
+ - FTC_TK
+2021-04-03 01:10:49,411 - INFO - Primary reference for coordinate system: FTC_TK
+2021-04-03 01:10:49,411 - INFO - Considering primers from all references
+2021-04-03 01:11:26,074 - INFO - All done! Scheme created with 37 regions, 11 gaps, 88.76% coverage
+2021-04-03 01:11:26,074 - INFO - Writing overlap_50/FTC_TK/FTC_TK.primer.bed
+2021-04-03 01:11:26,079 - INFO - Writing overlap_50/FTC_TK/FTC_TK.insert.bed
+2021-04-03 01:11:26,083 - INFO - Writing overlap_50/FTC_TK/FTC_TK.primer.tsv
+2021-04-03 01:11:26,087 - INFO - Writing overlap_50/FTC_TK/FTC_TK.reference.fasta
+2021-04-03 01:11:26,113 - INFO - Writing overlap_50/FTC_TK/FTC_TK.plot.pdf
+2021-04-03 01:11:26,113 - INFO - Writing overlap_50/FTC_TK/FTC_TK.plot.svg
+2021-04-03 01:11:26,197 - INFO - Writing overlap_50/FTC_TK/FTC_TK.report.json

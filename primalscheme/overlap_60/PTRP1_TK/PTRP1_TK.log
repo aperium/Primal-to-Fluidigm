@@ -1,0 +1,13 @@
+2021-04-03 01:49:58,949 - INFO - Writing log to overlap_60/PTRP1_TK/PTRP1_TK.log
+2021-04-03 01:49:58,957 - INFO - References:
+ - PTRP1_TK
+2021-04-03 01:49:58,958 - INFO - Primary reference for coordinate system: PTRP1_TK
+2021-04-03 01:49:58,958 - INFO - Considering primers from all references
+2021-04-03 01:50:01,854 - INFO - All done! Scheme created with 4 regions, 1 gap, 59.62% coverage
+2021-04-03 01:50:01,855 - INFO - Writing overlap_60/PTRP1_TK/PTRP1_TK.primer.bed
+2021-04-03 01:50:01,856 - INFO - Writing overlap_60/PTRP1_TK/PTRP1_TK.insert.bed
+2021-04-03 01:50:01,856 - INFO - Writing overlap_60/PTRP1_TK/PTRP1_TK.primer.tsv
+2021-04-03 01:50:01,857 - INFO - Writing overlap_60/PTRP1_TK/PTRP1_TK.reference.fasta
+2021-04-03 01:50:01,861 - INFO - Writing overlap_60/PTRP1_TK/PTRP1_TK.plot.pdf
+2021-04-03 01:50:01,862 - INFO - Writing overlap_60/PTRP1_TK/PTRP1_TK.plot.svg
+2021-04-03 01:50:01,916 - INFO - Writing overlap_60/PTRP1_TK/PTRP1_TK.report.json

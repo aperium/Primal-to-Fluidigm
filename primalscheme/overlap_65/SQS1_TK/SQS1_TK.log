@@ -1,0 +1,13 @@
+2021-04-03 02:08:01,260 - INFO - Writing log to overlap_65/SQS1_TK/SQS1_TK.log
+2021-04-03 02:08:01,269 - INFO - References:
+ - SQS1_TK
+2021-04-03 02:08:01,269 - INFO - Primary reference for coordinate system: SQS1_TK
+2021-04-03 02:08:01,269 - INFO - Considering primers from all references
+2021-04-03 02:08:14,035 - INFO - All done! Scheme created with 16 regions, 3 gaps, 88.1% coverage
+2021-04-03 02:08:14,035 - INFO - Writing overlap_65/SQS1_TK/SQS1_TK.primer.bed
+2021-04-03 02:08:14,036 - INFO - Writing overlap_65/SQS1_TK/SQS1_TK.insert.bed
+2021-04-03 02:08:14,037 - INFO - Writing overlap_65/SQS1_TK/SQS1_TK.primer.tsv
+2021-04-03 02:08:14,038 - INFO - Writing overlap_65/SQS1_TK/SQS1_TK.reference.fasta
+2021-04-03 02:08:14,049 - INFO - Writing overlap_65/SQS1_TK/SQS1_TK.plot.pdf
+2021-04-03 02:08:14,049 - INFO - Writing overlap_65/SQS1_TK/SQS1_TK.plot.svg
+2021-04-03 02:08:14,090 - INFO - Writing overlap_65/SQS1_TK/SQS1_TK.report.json

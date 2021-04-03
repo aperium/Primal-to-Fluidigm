@@ -1,0 +1,13 @@
+2021-04-03 00:42:31,515 - INFO - Writing log to overlap_40/PMEI_TK/PMEI_TK.log
+2021-04-03 00:42:31,524 - INFO - References:
+ - PMEI_TK
+2021-04-03 00:42:31,524 - INFO - Primary reference for coordinate system: PMEI_TK
+2021-04-03 00:42:31,524 - INFO - Considering primers from all references
+2021-04-03 00:42:38,801 - INFO - All done! Scheme created with 10 regions, 4 gaps, 75.97% coverage
+2021-04-03 00:42:38,802 - INFO - Writing overlap_40/PMEI_TK/PMEI_TK.primer.bed
+2021-04-03 00:42:38,803 - INFO - Writing overlap_40/PMEI_TK/PMEI_TK.insert.bed
+2021-04-03 00:42:38,804 - INFO - Writing overlap_40/PMEI_TK/PMEI_TK.primer.tsv
+2021-04-03 00:42:38,805 - INFO - Writing overlap_40/PMEI_TK/PMEI_TK.reference.fasta
+2021-04-03 00:42:38,813 - INFO - Writing overlap_40/PMEI_TK/PMEI_TK.plot.pdf
+2021-04-03 00:42:38,814 - INFO - Writing overlap_40/PMEI_TK/PMEI_TK.plot.svg
+2021-04-03 00:42:38,844 - INFO - Writing overlap_40/PMEI_TK/PMEI_TK.report.json

@@ -12,3 +12,17 @@
 2020-12-01 05:20:45,966 - INFO - Writing overlap_50/cluster_4H3M2EDPR_TK/cluster_4H3M2EDPR_TK.plot.pdf
 2020-12-01 05:20:45,966 - INFO - Writing overlap_50/cluster_4H3M2EDPR_TK/cluster_4H3M2EDPR_TK.plot.svg
 2020-12-01 05:20:46,005 - INFO - Writing overlap_50/cluster_4H3M2EDPR_TK/cluster_4H3M2EDPR_TK.report.json
+2021-04-03 01:08:16,031 - INFO - Writing log to overlap_50/cluster_4H3M2EDPR_TK/cluster_4H3M2EDPR_TK.log
+2021-04-03 01:08:16,064 - INFO - References:
+ - 4H3M2EDPR1_TK
+ - 4H3M2EDPR3_TK
+2021-04-03 01:08:16,065 - INFO - Primary reference for coordinate system: 4H3M2EDPR1_TK
+2021-04-03 01:08:16,065 - INFO - Considering primers from all references
+2021-04-03 01:08:26,228 - INFO - All done! Scheme created with 11 regions, 4 gaps, 73.82% coverage
+2021-04-03 01:08:26,228 - INFO - Writing overlap_50/cluster_4H3M2EDPR_TK/cluster_4H3M2EDPR_TK.primer.bed
+2021-04-03 01:08:26,234 - INFO - Writing overlap_50/cluster_4H3M2EDPR_TK/cluster_4H3M2EDPR_TK.insert.bed
+2021-04-03 01:08:26,238 - INFO - Writing overlap_50/cluster_4H3M2EDPR_TK/cluster_4H3M2EDPR_TK.primer.tsv
+2021-04-03 01:08:26,241 - INFO - Writing overlap_50/cluster_4H3M2EDPR_TK/cluster_4H3M2EDPR_TK.reference.fasta
+2021-04-03 01:08:26,252 - INFO - Writing overlap_50/cluster_4H3M2EDPR_TK/cluster_4H3M2EDPR_TK.plot.pdf
+2021-04-03 01:08:26,252 - INFO - Writing overlap_50/cluster_4H3M2EDPR_TK/cluster_4H3M2EDPR_TK.plot.svg
+2021-04-03 01:08:26,290 - INFO - Writing overlap_50/cluster_4H3M2EDPR_TK/cluster_4H3M2EDPR_TK.report.json

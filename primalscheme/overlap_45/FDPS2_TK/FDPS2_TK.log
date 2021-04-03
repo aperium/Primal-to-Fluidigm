@@ -1,0 +1,13 @@
+2021-04-03 00:53:59,993 - INFO - Writing log to overlap_45/FDPS2_TK/FDPS2_TK.log
+2021-04-03 00:54:00,001 - INFO - References:
+ - FDPS2_TK
+2021-04-03 00:54:00,001 - INFO - Primary reference for coordinate system: FDPS2_TK
+2021-04-03 00:54:00,002 - INFO - Considering primers from all references
+2021-04-03 00:54:08,418 - INFO - All done! Scheme created with 11 regions, 4 gaps, 81.9% coverage
+2021-04-03 00:54:08,418 - INFO - Writing overlap_45/FDPS2_TK/FDPS2_TK.primer.bed
+2021-04-03 00:54:08,419 - INFO - Writing overlap_45/FDPS2_TK/FDPS2_TK.insert.bed
+2021-04-03 00:54:08,421 - INFO - Writing overlap_45/FDPS2_TK/FDPS2_TK.primer.tsv
+2021-04-03 00:54:08,422 - INFO - Writing overlap_45/FDPS2_TK/FDPS2_TK.reference.fasta
+2021-04-03 00:54:08,430 - INFO - Writing overlap_45/FDPS2_TK/FDPS2_TK.plot.pdf
+2021-04-03 00:54:08,430 - INFO - Writing overlap_45/FDPS2_TK/FDPS2_TK.plot.svg
+2021-04-03 00:54:08,461 - INFO - Writing overlap_45/FDPS2_TK/FDPS2_TK.report.json

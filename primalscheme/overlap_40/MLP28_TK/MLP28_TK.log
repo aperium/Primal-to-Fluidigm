@@ -1,0 +1,13 @@
+2021-04-03 00:39:36,373 - INFO - Writing log to overlap_40/MLP28_TK/MLP28_TK.log
+2021-04-03 00:39:36,381 - INFO - References:
+ - MLP28_TK
+2021-04-03 00:39:36,381 - INFO - Primary reference for coordinate system: MLP28_TK
+2021-04-03 00:39:36,381 - INFO - Considering primers from all references
+2021-04-03 00:39:38,638 - INFO - All done! Scheme created with 3 regions, 0 gaps, 73.47% coverage
+2021-04-03 00:39:38,638 - INFO - Writing overlap_40/MLP28_TK/MLP28_TK.primer.bed
+2021-04-03 00:39:38,641 - INFO - Writing overlap_40/MLP28_TK/MLP28_TK.insert.bed
+2021-04-03 00:39:38,642 - INFO - Writing overlap_40/MLP28_TK/MLP28_TK.primer.tsv
+2021-04-03 00:39:38,643 - INFO - Writing overlap_40/MLP28_TK/MLP28_TK.reference.fasta
+2021-04-03 00:39:38,647 - INFO - Writing overlap_40/MLP28_TK/MLP28_TK.plot.pdf
+2021-04-03 00:39:38,647 - INFO - Writing overlap_40/MLP28_TK/MLP28_TK.plot.svg
+2021-04-03 00:39:38,665 - INFO - Writing overlap_40/MLP28_TK/MLP28_TK.report.json
