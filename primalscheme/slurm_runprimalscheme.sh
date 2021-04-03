@@ -5,7 +5,7 @@
 set -e -u -o pipefail
 
 # move to directory
-cd /fs/scratch/PAS1755/drw_wd/primalscheme/
+cd /fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme
 
 # open correct python env
 module load python/3.7-2019.10
@@ -15,8 +15,11 @@ date                              # Report date+time to time script
 echo "Starting runprimalscheme.sh script..."  # Report what script is being run
 echo -e "---------\n\n"           # Separate from program output
 
+# move to directory
+cd /fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme
+
 # execute primalscheme here...
-runprimalscheme.sh
+bash runprimalscheme.sh
 
 echo -e "\n---------\nAll done!"  # Separate from program output
 date                              # Report date+time to time script

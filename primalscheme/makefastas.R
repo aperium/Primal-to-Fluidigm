@@ -39,6 +39,7 @@ dir_create(paste0("overlap_",overlap))
 
 command <- paste("primalscheme multiplex -a", ampmin, "-a", ampmax, "-t", overlap)
 if(file_exists(path = outfile)) file_delete(path = outfile)
+paste("#!/bin/bash") %>% write_file(file = outfile, append = TRUE)
 for (i in 1:length(seqs$Short.name)) {
   fastapath <- path(paste0("fastas/",seqs$Short.name[i],".fasta"))
   outpath <- path(paste0("overlap_",overlap,"/",seqs$Short.name[i]))
