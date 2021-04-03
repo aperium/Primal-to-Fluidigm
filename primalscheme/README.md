@@ -69,10 +69,18 @@ The configuration file is located at `/fs/scratch/PAS1755/drw_wd/primalscheme/sr
 
 ## 4. Run PrimalScheme from Python environment
 
-```shell
-# open SLRUM
-#TODO
+SLURM version:
 
+```{shell}
+#this script contains all the stuff in the non-SLURM version packaged up nicely.
+sbatch slurm_runprimalscheme.sh
+```
+
+
+
+Non SLURM version:
+
+```shell
 # open correct python env
 module load python/3.7-2019.10
 source /fs/scratch/PAS1755/drw_wd/primalscheme/venv/bin/activate
