@@ -21,7 +21,8 @@ echo -e "---------\n\n"           # Separate from program output
 cd /fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme
 
 # execute primalscheme here...
-bash runprimalscheme.sh
+# bash runprimalscheme.sh
+bash runprimalscheme2.sh
 
 echo -e "\n---------\nAll done!"  # Separate from program output
 date                              # Report date+time to time script
