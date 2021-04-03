@@ -83,5 +83,6 @@ for (i in jsondataflatterlist) {
 
 # print csv file
 jsondatatibble %>%
+  na.omit() %>%
   write_csv("coverage2.csv")
 

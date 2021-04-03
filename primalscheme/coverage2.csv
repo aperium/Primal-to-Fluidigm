@@ -1,5 +1,4 @@
 reference,regions,percent_coverage,gaps,config_step_distance,config_target_overlap,config_amplicon_size_min,config_amplicon_size_max,config_high_gc,config_primalscheme_version,config_primary_only,config_primer_size_min,config_primer_size_max,config_primer_size_opt,config_primer_gc_min,config_primer_gc_max,config_primer_gc_opt
-NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 1DDX5PR1_TK,12,84.54,2,11,40,180,500,FALSE,1.3.2,FALSE,19,34,22,30,55,50
 1DDX5PS1_TK,18,83.28,8,11,40,180,500,FALSE,1.3.2,FALSE,19,34,22,30,55,50
 1DDX5PS2_TK,20,89.66,9,11,40,180,500,FALSE,1.3.2,FALSE,19,34,22,30,55,50
