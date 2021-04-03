@@ -1,0 +1,13 @@
+2021-04-02 20:41:32,354 - INFO - Writing log to overlap_70/ACT1_TK/ACT1_TK.log
+2021-04-02 20:41:32,378 - INFO - References:
+ - ACT1_TK
+2021-04-02 20:41:32,378 - INFO - Primary reference for coordinate system: ACT1_TK
+2021-04-02 20:41:32,378 - INFO - Considering primers from all references
+2021-04-02 20:41:35,857 - INFO - All done! Scheme created with 6 regions, 2 gaps, 70.55% coverage
+2021-04-02 20:41:35,858 - INFO - Writing overlap_70/ACT1_TK/ACT1_TK.primer.bed
+2021-04-02 20:41:35,859 - INFO - Writing overlap_70/ACT1_TK/ACT1_TK.insert.bed
+2021-04-02 20:41:35,859 - INFO - Writing overlap_70/ACT1_TK/ACT1_TK.primer.tsv
+2021-04-02 20:41:35,860 - INFO - Writing overlap_70/ACT1_TK/ACT1_TK.reference.fasta
+2021-04-02 20:41:35,864 - INFO - Writing overlap_70/ACT1_TK/ACT1_TK.plot.pdf
+2021-04-02 20:41:35,865 - INFO - Writing overlap_70/ACT1_TK/ACT1_TK.plot.svg
+2021-04-02 20:41:35,882 - INFO - Writing overlap_70/ACT1_TK/ACT1_TK.report.json

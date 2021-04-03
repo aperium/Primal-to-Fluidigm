@@ -1,0 +1,13 @@
+2021-04-02 20:50:43,007 - INFO - Writing log to overlap_70/VPE_TK/VPE_TK.log
+2021-04-02 20:50:43,018 - INFO - References:
+ - VPE_TK
+2021-04-02 20:50:43,018 - INFO - Primary reference for coordinate system: VPE_TK
+2021-04-02 20:50:43,018 - INFO - Considering primers from all references
+2021-04-02 20:51:04,607 - INFO - All done! Scheme created with 19 regions, 7 gaps, 82.77% coverage
+2021-04-02 20:51:04,607 - INFO - Writing overlap_70/VPE_TK/VPE_TK.primer.bed
+2021-04-02 20:51:04,608 - INFO - Writing overlap_70/VPE_TK/VPE_TK.insert.bed
+2021-04-02 20:51:04,609 - INFO - Writing overlap_70/VPE_TK/VPE_TK.primer.tsv
+2021-04-02 20:51:04,610 - INFO - Writing overlap_70/VPE_TK/VPE_TK.reference.fasta
+2021-04-02 20:51:04,621 - INFO - Writing overlap_70/VPE_TK/VPE_TK.plot.pdf
+2021-04-02 20:51:04,621 - INFO - Writing overlap_70/VPE_TK/VPE_TK.plot.svg
+2021-04-02 20:51:04,666 - INFO - Writing overlap_70/VPE_TK/VPE_TK.report.json

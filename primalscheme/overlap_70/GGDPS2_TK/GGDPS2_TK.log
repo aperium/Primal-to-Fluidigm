@@ -1,0 +1,13 @@
+2021-04-02 20:44:23,706 - INFO - Writing log to overlap_70/GGDPS2_TK/GGDPS2_TK.log
+2021-04-02 20:44:23,722 - INFO - References:
+ - GGDPS2_TK
+2021-04-02 20:44:23,722 - INFO - Primary reference for coordinate system: GGDPS2_TK
+2021-04-02 20:44:23,722 - INFO - Considering primers from all references
+2021-04-02 20:44:27,411 - INFO - All done! Scheme created with 6 regions, 1 gap, 71.37% coverage
+2021-04-02 20:44:27,411 - INFO - Writing overlap_70/GGDPS2_TK/GGDPS2_TK.primer.bed
+2021-04-02 20:44:27,412 - INFO - Writing overlap_70/GGDPS2_TK/GGDPS2_TK.insert.bed
+2021-04-02 20:44:27,413 - INFO - Writing overlap_70/GGDPS2_TK/GGDPS2_TK.primer.tsv
+2021-04-02 20:44:27,414 - INFO - Writing overlap_70/GGDPS2_TK/GGDPS2_TK.reference.fasta
+2021-04-02 20:44:27,421 - INFO - Writing overlap_70/GGDPS2_TK/GGDPS2_TK.plot.pdf
+2021-04-02 20:44:27,421 - INFO - Writing overlap_70/GGDPS2_TK/GGDPS2_TK.plot.svg
+2021-04-02 20:44:27,440 - INFO - Writing overlap_70/GGDPS2_TK/GGDPS2_TK.report.json

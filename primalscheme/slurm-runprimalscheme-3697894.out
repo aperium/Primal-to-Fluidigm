@@ -1,0 +1,6 @@
+Fri Apr  2 20:07:14 EDT 2021
+Starting runprimalscheme.sh script...
+---------
+
+
+/var/spool/slurmd/job3697894/slurm_script: line 19: runprimalscheme.sh: command not found

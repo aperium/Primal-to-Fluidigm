@@ -11,3 +11,16 @@
 2020-12-01 05:23:59,437 - INFO - Writing overlap_70/PPO_TK/PPO_TK.plot.pdf
 2020-12-01 05:23:59,437 - INFO - Writing overlap_70/PPO_TK/PPO_TK.plot.svg
 2020-12-01 05:23:59,463 - INFO - Writing overlap_70/PPO_TK/PPO_TK.report.json
+2021-04-02 20:51:05,375 - INFO - Writing log to overlap_70/PPO_TK/PPO_TK.log
+2021-04-02 20:51:05,406 - INFO - References:
+ - PPO_TK
+2021-04-02 20:51:05,406 - INFO - Primary reference for coordinate system: PPO_TK
+2021-04-02 20:51:05,406 - INFO - Considering primers from all references
+2021-04-02 20:51:11,371 - INFO - All done! Scheme created with 8 regions, 2 gaps, 75.5% coverage
+2021-04-02 20:51:11,371 - INFO - Writing overlap_70/PPO_TK/PPO_TK.primer.bed
+2021-04-02 20:51:11,375 - INFO - Writing overlap_70/PPO_TK/PPO_TK.insert.bed
+2021-04-02 20:51:11,379 - INFO - Writing overlap_70/PPO_TK/PPO_TK.primer.tsv
+2021-04-02 20:51:11,382 - INFO - Writing overlap_70/PPO_TK/PPO_TK.reference.fasta
+2021-04-02 20:51:11,391 - INFO - Writing overlap_70/PPO_TK/PPO_TK.plot.pdf
+2021-04-02 20:51:11,391 - INFO - Writing overlap_70/PPO_TK/PPO_TK.plot.svg
+2021-04-02 20:51:11,423 - INFO - Writing overlap_70/PPO_TK/PPO_TK.report.json
