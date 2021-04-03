@@ -3,8 +3,8 @@ pacman::p_load(tidyverse, magrittr, stringr, openxlsx, fs)
 
 # set working directory
 # getwd()
-setwd("/fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme/")
-# setwd("/Users/aperium/Documents/GitHub/Primal-to-Fluidigm/primalscheme")
+# setwd("/fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme/")
+setwd("/Users/aperium/Documents/GitHub/Primal-to-Fluidigm/primalscheme")
 
 # set primal scheme parameters
 args = commandArgs(trailingOnly = TRUE)
@@ -39,7 +39,7 @@ dir_create(paste0("overlap_",overlap))
 
 command <- paste("primalscheme multiplex -a", ampmin, "-a", ampmax, "-t", overlap)
 if(file_exists(path = outfile)) file_delete(path = outfile)
-paste("#!/bin/bash") %>% write_file(file = outfile, append = TRUE)
+paste("#!/bin/bash", "\n") %>% write_file(file = outfile, append = TRUE)
 for (i in 1:length(seqs$Short.name)) {
   fastapath <- path(paste0("fastas/",seqs$Short.name[i],".fasta"))
   outpath <- path(paste0("overlap_",overlap,"/",seqs$Short.name[i]))
