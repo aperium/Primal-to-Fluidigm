@@ -102,6 +102,23 @@ deactivate
 
 ## 5. Extract coverage and prepare visuals
 
+Updated version:
+
+```shell
+cd /fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme/
+# cd /Users/aperium/Documents/GitHub/Primal-to-Fluidigm/primalscheme/
+
+Rscript formatcoverage2.R
+Rscript analyzecoverage2.R
+
+```
+
+View the file `coverage_by_overlap2.png`
+
+
+
+Old version:
+
 ```shell
 cd /fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme/
 # cd /Users/aperium/Documents/GitHub/Primal-to-Fluidigm/primalscheme/
