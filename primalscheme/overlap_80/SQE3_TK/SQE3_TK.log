@@ -1,0 +1,13 @@
+2021-04-03 11:33:37,597 - INFO - Writing log to overlap_80/SQE3_TK/SQE3_TK.log
+2021-04-03 11:33:37,603 - INFO - References:
+ - SQE3_TK
+2021-04-03 11:33:37,603 - INFO - Primary reference for coordinate system: SQE3_TK
+2021-04-03 11:33:37,603 - INFO - Considering primers from all references
+2021-04-03 11:33:45,881 - INFO - All done! Scheme created with 13 regions, 4 gaps, 87.83% coverage
+2021-04-03 11:33:45,881 - INFO - Writing overlap_80/SQE3_TK/SQE3_TK.primer.bed
+2021-04-03 11:33:45,882 - INFO - Writing overlap_80/SQE3_TK/SQE3_TK.insert.bed
+2021-04-03 11:33:45,882 - INFO - Writing overlap_80/SQE3_TK/SQE3_TK.primer.tsv
+2021-04-03 11:33:45,883 - INFO - Writing overlap_80/SQE3_TK/SQE3_TK.reference.fasta
+2021-04-03 11:33:45,890 - INFO - Writing overlap_80/SQE3_TK/SQE3_TK.plot.pdf
+2021-04-03 11:33:45,890 - INFO - Writing overlap_80/SQE3_TK/SQE3_TK.plot.svg
+2021-04-03 11:33:45,918 - INFO - Writing overlap_80/SQE3_TK/SQE3_TK.report.json

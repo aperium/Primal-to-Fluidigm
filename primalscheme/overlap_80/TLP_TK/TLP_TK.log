@@ -1,0 +1,13 @@
+2021-04-03 11:34:45,330 - INFO - Writing log to overlap_80/TLP_TK/TLP_TK.log
+2021-04-03 11:34:45,335 - INFO - References:
+ - TLP_TK
+2021-04-03 11:34:45,335 - INFO - Primary reference for coordinate system: TLP_TK
+2021-04-03 11:34:45,335 - INFO - Considering primers from all references
+2021-04-03 11:34:47,223 - INFO - All done! Scheme created with 3 regions, 1 gap, 60.08% coverage
+2021-04-03 11:34:47,223 - INFO - Writing overlap_80/TLP_TK/TLP_TK.primer.bed
+2021-04-03 11:34:47,224 - INFO - Writing overlap_80/TLP_TK/TLP_TK.insert.bed
+2021-04-03 11:34:47,224 - INFO - Writing overlap_80/TLP_TK/TLP_TK.primer.tsv
+2021-04-03 11:34:47,225 - INFO - Writing overlap_80/TLP_TK/TLP_TK.reference.fasta
+2021-04-03 11:34:47,228 - INFO - Writing overlap_80/TLP_TK/TLP_TK.plot.pdf
+2021-04-03 11:34:47,228 - INFO - Writing overlap_80/TLP_TK/TLP_TK.plot.svg
+2021-04-03 11:34:47,241 - INFO - Writing overlap_80/TLP_TK/TLP_TK.report.json

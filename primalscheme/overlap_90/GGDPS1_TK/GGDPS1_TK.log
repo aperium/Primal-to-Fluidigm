@@ -1,0 +1,13 @@
+2021-04-03 11:55:37,837 - INFO - Writing log to overlap_90/GGDPS1_TK/GGDPS1_TK.log
+2021-04-03 11:55:37,843 - INFO - References:
+ - GGDPS1_TK
+2021-04-03 11:55:37,843 - INFO - Primary reference for coordinate system: GGDPS1_TK
+2021-04-03 11:55:37,843 - INFO - Considering primers from all references
+2021-04-03 11:55:41,536 - INFO - All done! Scheme created with 6 regions, 2 gaps, 81.14% coverage
+2021-04-03 11:55:41,536 - INFO - Writing overlap_90/GGDPS1_TK/GGDPS1_TK.primer.bed
+2021-04-03 11:55:41,537 - INFO - Writing overlap_90/GGDPS1_TK/GGDPS1_TK.insert.bed
+2021-04-03 11:55:41,538 - INFO - Writing overlap_90/GGDPS1_TK/GGDPS1_TK.primer.tsv
+2021-04-03 11:55:41,538 - INFO - Writing overlap_90/GGDPS1_TK/GGDPS1_TK.reference.fasta
+2021-04-03 11:55:41,543 - INFO - Writing overlap_90/GGDPS1_TK/GGDPS1_TK.plot.pdf
+2021-04-03 11:55:41,543 - INFO - Writing overlap_90/GGDPS1_TK/GGDPS1_TK.plot.svg
+2021-04-03 11:55:41,562 - INFO - Writing overlap_90/GGDPS1_TK/GGDPS1_TK.report.json

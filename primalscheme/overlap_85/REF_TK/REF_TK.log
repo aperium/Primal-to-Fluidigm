@@ -1,0 +1,13 @@
+2021-04-03 11:46:19,451 - INFO - Writing log to overlap_85/REF_TK/REF_TK.log
+2021-04-03 11:46:19,456 - INFO - References:
+ - REF_TK
+2021-04-03 11:46:19,456 - INFO - Primary reference for coordinate system: REF_TK
+2021-04-03 11:46:19,456 - INFO - Considering primers from all references
+2021-04-03 11:46:23,131 - INFO - All done! Scheme created with 6 regions, 1 gap, 73.54% coverage
+2021-04-03 11:46:23,131 - INFO - Writing overlap_85/REF_TK/REF_TK.primer.bed
+2021-04-03 11:46:23,133 - INFO - Writing overlap_85/REF_TK/REF_TK.insert.bed
+2021-04-03 11:46:23,133 - INFO - Writing overlap_85/REF_TK/REF_TK.primer.tsv
+2021-04-03 11:46:23,134 - INFO - Writing overlap_85/REF_TK/REF_TK.reference.fasta
+2021-04-03 11:46:23,138 - INFO - Writing overlap_85/REF_TK/REF_TK.plot.pdf
+2021-04-03 11:46:23,138 - INFO - Writing overlap_85/REF_TK/REF_TK.plot.svg
+2021-04-03 11:46:23,158 - INFO - Writing overlap_85/REF_TK/REF_TK.report.json

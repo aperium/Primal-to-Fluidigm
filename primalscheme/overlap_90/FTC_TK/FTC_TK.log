@@ -1,0 +1,13 @@
+2021-04-03 11:54:47,913 - INFO - Writing log to overlap_90/FTC_TK/FTC_TK.log
+2021-04-03 11:54:47,920 - INFO - References:
+ - FTC_TK
+2021-04-03 11:54:47,920 - INFO - Primary reference for coordinate system: FTC_TK
+2021-04-03 11:54:47,920 - INFO - Considering primers from all references
+2021-04-03 11:55:17,191 - INFO - All done! Scheme created with 37 regions, 11 gaps, 88.76% coverage
+2021-04-03 11:55:17,191 - INFO - Writing overlap_90/FTC_TK/FTC_TK.primer.bed
+2021-04-03 11:55:17,193 - INFO - Writing overlap_90/FTC_TK/FTC_TK.insert.bed
+2021-04-03 11:55:17,194 - INFO - Writing overlap_90/FTC_TK/FTC_TK.primer.tsv
+2021-04-03 11:55:17,195 - INFO - Writing overlap_90/FTC_TK/FTC_TK.reference.fasta
+2021-04-03 11:55:17,213 - INFO - Writing overlap_90/FTC_TK/FTC_TK.plot.pdf
+2021-04-03 11:55:17,213 - INFO - Writing overlap_90/FTC_TK/FTC_TK.plot.svg
+2021-04-03 11:55:17,275 - INFO - Writing overlap_90/FTC_TK/FTC_TK.report.json

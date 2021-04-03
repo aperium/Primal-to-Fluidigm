@@ -1,0 +1,13 @@
+2021-04-03 11:10:58,556 - INFO - Writing log to overlap_75/A20AN1_TK/A20AN1_TK.log
+2021-04-03 11:10:58,581 - INFO - References:
+ - A20AN1_TK
+2021-04-03 11:10:58,581 - INFO - Primary reference for coordinate system: A20AN1_TK
+2021-04-03 11:10:58,581 - INFO - Considering primers from all references
+2021-04-03 11:10:59,745 - INFO - All done! Scheme created with 2 regions, 0 gaps, 42.31% coverage
+2021-04-03 11:10:59,745 - INFO - Writing overlap_75/A20AN1_TK/A20AN1_TK.primer.bed
+2021-04-03 11:10:59,746 - INFO - Writing overlap_75/A20AN1_TK/A20AN1_TK.insert.bed
+2021-04-03 11:10:59,747 - INFO - Writing overlap_75/A20AN1_TK/A20AN1_TK.primer.tsv
+2021-04-03 11:10:59,747 - INFO - Writing overlap_75/A20AN1_TK/A20AN1_TK.reference.fasta
+2021-04-03 11:10:59,750 - INFO - Writing overlap_75/A20AN1_TK/A20AN1_TK.plot.pdf
+2021-04-03 11:10:59,750 - INFO - Writing overlap_75/A20AN1_TK/A20AN1_TK.plot.svg
+2021-04-03 11:10:59,762 - INFO - Writing overlap_75/A20AN1_TK/A20AN1_TK.report.json

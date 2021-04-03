@@ -1,0 +1,13 @@
+2021-04-03 11:24:30,470 - INFO - Writing log to overlap_80/ACC2_TK/ACC2_TK.log
+2021-04-03 11:24:30,476 - INFO - References:
+ - ACC2_TK
+2021-04-03 11:24:30,476 - INFO - Primary reference for coordinate system: ACC2_TK
+2021-04-03 11:24:30,476 - INFO - Considering primers from all references
+2021-04-03 11:24:37,697 - INFO - All done! Scheme created with 11 regions, 5 gaps, 80.07% coverage
+2021-04-03 11:24:37,697 - INFO - Writing overlap_80/ACC2_TK/ACC2_TK.primer.bed
+2021-04-03 11:24:37,698 - INFO - Writing overlap_80/ACC2_TK/ACC2_TK.insert.bed
+2021-04-03 11:24:37,698 - INFO - Writing overlap_80/ACC2_TK/ACC2_TK.primer.tsv
+2021-04-03 11:24:37,699 - INFO - Writing overlap_80/ACC2_TK/ACC2_TK.reference.fasta
+2021-04-03 11:24:37,706 - INFO - Writing overlap_80/ACC2_TK/ACC2_TK.plot.pdf
+2021-04-03 11:24:37,706 - INFO - Writing overlap_80/ACC2_TK/ACC2_TK.plot.svg
+2021-04-03 11:24:37,729 - INFO - Writing overlap_80/ACC2_TK/ACC2_TK.report.json

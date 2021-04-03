@@ -1,0 +1,13 @@
+2021-04-03 11:58:47,028 - INFO - Writing log to overlap_90/PMIP1B_TK/PMIP1B_TK.log
+2021-04-03 11:58:47,033 - INFO - References:
+ - PMIP1B_TK
+2021-04-03 11:58:47,033 - INFO - Primary reference for coordinate system: PMIP1B_TK
+2021-04-03 11:58:47,033 - INFO - Considering primers from all references
+2021-04-03 11:58:50,760 - INFO - All done! Scheme created with 6 regions, 1 gap, 79.32% coverage
+2021-04-03 11:58:50,761 - INFO - Writing overlap_90/PMIP1B_TK/PMIP1B_TK.primer.bed
+2021-04-03 11:58:50,762 - INFO - Writing overlap_90/PMIP1B_TK/PMIP1B_TK.insert.bed
+2021-04-03 11:58:50,762 - INFO - Writing overlap_90/PMIP1B_TK/PMIP1B_TK.primer.tsv
+2021-04-03 11:58:50,763 - INFO - Writing overlap_90/PMIP1B_TK/PMIP1B_TK.reference.fasta
+2021-04-03 11:58:50,767 - INFO - Writing overlap_90/PMIP1B_TK/PMIP1B_TK.plot.pdf
+2021-04-03 11:58:50,767 - INFO - Writing overlap_90/PMIP1B_TK/PMIP1B_TK.plot.svg
+2021-04-03 11:58:50,786 - INFO - Writing overlap_90/PMIP1B_TK/PMIP1B_TK.report.json

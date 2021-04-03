@@ -1,0 +1,13 @@
+2021-04-03 11:55:59,796 - INFO - Writing log to overlap_90/MDPD_TK/MDPD_TK.log
+2021-04-03 11:55:59,802 - INFO - References:
+ - MDPD_TK
+2021-04-03 11:55:59,802 - INFO - Primary reference for coordinate system: MDPD_TK
+2021-04-03 11:55:59,802 - INFO - Considering primers from all references
+2021-04-03 11:56:05,457 - INFO - All done! Scheme created with 9 regions, 2 gaps, 78.77% coverage
+2021-04-03 11:56:05,457 - INFO - Writing overlap_90/MDPD_TK/MDPD_TK.primer.bed
+2021-04-03 11:56:05,458 - INFO - Writing overlap_90/MDPD_TK/MDPD_TK.insert.bed
+2021-04-03 11:56:05,459 - INFO - Writing overlap_90/MDPD_TK/MDPD_TK.primer.tsv
+2021-04-03 11:56:05,460 - INFO - Writing overlap_90/MDPD_TK/MDPD_TK.reference.fasta
+2021-04-03 11:56:05,465 - INFO - Writing overlap_90/MDPD_TK/MDPD_TK.plot.pdf
+2021-04-03 11:56:05,466 - INFO - Writing overlap_90/MDPD_TK/MDPD_TK.plot.svg
+2021-04-03 11:56:05,488 - INFO - Writing overlap_90/MDPD_TK/MDPD_TK.report.json

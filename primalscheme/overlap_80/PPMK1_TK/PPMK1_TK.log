@@ -1,0 +1,13 @@
+2021-04-03 11:32:16,513 - INFO - Writing log to overlap_80/PPMK1_TK/PPMK1_TK.log
+2021-04-03 11:32:16,519 - INFO - References:
+ - PPMK1_TK
+2021-04-03 11:32:16,519 - INFO - Primary reference for coordinate system: PPMK1_TK
+2021-04-03 11:32:16,519 - INFO - Considering primers from all references
+2021-04-03 11:32:23,036 - INFO - All done! Scheme created with 10 regions, 0 gaps, 84.4% coverage
+2021-04-03 11:32:23,036 - INFO - Writing overlap_80/PPMK1_TK/PPMK1_TK.primer.bed
+2021-04-03 11:32:23,038 - INFO - Writing overlap_80/PPMK1_TK/PPMK1_TK.insert.bed
+2021-04-03 11:32:23,039 - INFO - Writing overlap_80/PPMK1_TK/PPMK1_TK.primer.tsv
+2021-04-03 11:32:23,040 - INFO - Writing overlap_80/PPMK1_TK/PPMK1_TK.reference.fasta
+2021-04-03 11:32:23,046 - INFO - Writing overlap_80/PPMK1_TK/PPMK1_TK.plot.pdf
+2021-04-03 11:32:23,046 - INFO - Writing overlap_80/PPMK1_TK/PPMK1_TK.plot.svg
+2021-04-03 11:32:23,072 - INFO - Writing overlap_80/PPMK1_TK/PPMK1_TK.report.json

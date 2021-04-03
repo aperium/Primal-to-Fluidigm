@@ -1,0 +1,13 @@
+2021-04-03 11:39:07,549 - INFO - Writing log to overlap_85/C72_TK/C72_TK.log
+2021-04-03 11:39:07,554 - INFO - References:
+ - C72_TK
+2021-04-03 11:39:07,554 - INFO - Primary reference for coordinate system: C72_TK
+2021-04-03 11:39:07,554 - INFO - Considering primers from all references
+2021-04-03 11:39:08,677 - INFO - All done! Scheme created with 2 regions, 0 gaps, 49.05% coverage
+2021-04-03 11:39:08,677 - INFO - Writing overlap_85/C72_TK/C72_TK.primer.bed
+2021-04-03 11:39:08,678 - INFO - Writing overlap_85/C72_TK/C72_TK.insert.bed
+2021-04-03 11:39:08,679 - INFO - Writing overlap_85/C72_TK/C72_TK.primer.tsv
+2021-04-03 11:39:08,680 - INFO - Writing overlap_85/C72_TK/C72_TK.reference.fasta
+2021-04-03 11:39:08,682 - INFO - Writing overlap_85/C72_TK/C72_TK.plot.pdf
+2021-04-03 11:39:08,683 - INFO - Writing overlap_85/C72_TK/C72_TK.plot.svg
+2021-04-03 11:39:08,694 - INFO - Writing overlap_85/C72_TK/C72_TK.report.json

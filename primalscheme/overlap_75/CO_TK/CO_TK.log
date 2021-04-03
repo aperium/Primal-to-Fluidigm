@@ -1,0 +1,13 @@
+2021-04-03 11:12:51,041 - INFO - Writing log to overlap_75/CO_TK/CO_TK.log
+2021-04-03 11:12:51,057 - INFO - References:
+ - CO_TK
+2021-04-03 11:12:51,057 - INFO - Primary reference for coordinate system: CO_TK
+2021-04-03 11:12:51,058 - INFO - Considering primers from all references
+2021-04-03 11:12:55,478 - INFO - All done! Scheme created with 7 regions, 3 gaps, 79.31% coverage
+2021-04-03 11:12:55,478 - INFO - Writing overlap_75/CO_TK/CO_TK.primer.bed
+2021-04-03 11:12:55,479 - INFO - Writing overlap_75/CO_TK/CO_TK.insert.bed
+2021-04-03 11:12:55,479 - INFO - Writing overlap_75/CO_TK/CO_TK.primer.tsv
+2021-04-03 11:12:55,480 - INFO - Writing overlap_75/CO_TK/CO_TK.reference.fasta
+2021-04-03 11:12:55,485 - INFO - Writing overlap_75/CO_TK/CO_TK.plot.pdf
+2021-04-03 11:12:55,485 - INFO - Writing overlap_75/CO_TK/CO_TK.plot.svg
+2021-04-03 11:12:55,504 - INFO - Writing overlap_75/CO_TK/CO_TK.report.json

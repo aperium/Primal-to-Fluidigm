@@ -1,0 +1,13 @@
+2021-04-03 11:47:54,211 - INFO - Writing log to overlap_85/SRRP2_TK/SRRP2_TK.log
+2021-04-03 11:47:54,217 - INFO - References:
+ - SRRP2_TK
+2021-04-03 11:47:54,217 - INFO - Primary reference for coordinate system: SRRP2_TK
+2021-04-03 11:47:54,217 - INFO - Considering primers from all references
+2021-04-03 11:47:57,966 - INFO - All done! Scheme created with 6 regions, 2 gaps, 77.49% coverage
+2021-04-03 11:47:57,967 - INFO - Writing overlap_85/SRRP2_TK/SRRP2_TK.primer.bed
+2021-04-03 11:47:57,968 - INFO - Writing overlap_85/SRRP2_TK/SRRP2_TK.insert.bed
+2021-04-03 11:47:57,968 - INFO - Writing overlap_85/SRRP2_TK/SRRP2_TK.primer.tsv
+2021-04-03 11:47:57,969 - INFO - Writing overlap_85/SRRP2_TK/SRRP2_TK.reference.fasta
+2021-04-03 11:47:57,973 - INFO - Writing overlap_85/SRRP2_TK/SRRP2_TK.plot.pdf
+2021-04-03 11:47:57,973 - INFO - Writing overlap_85/SRRP2_TK/SRRP2_TK.plot.svg
+2021-04-03 11:47:57,992 - INFO - Writing overlap_85/SRRP2_TK/SRRP2_TK.report.json

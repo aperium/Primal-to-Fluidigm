@@ -1,0 +1,13 @@
+2021-04-03 11:45:02,350 - INFO - Writing log to overlap_85/PEC2_TK/PEC2_TK.log
+2021-04-03 11:45:02,356 - INFO - References:
+ - PEC2_TK
+2021-04-03 11:45:02,356 - INFO - Primary reference for coordinate system: PEC2_TK
+2021-04-03 11:45:02,356 - INFO - Considering primers from all references
+2021-04-03 11:45:07,349 - INFO - All done! Scheme created with 8 regions, 3 gaps, 77.19% coverage
+2021-04-03 11:45:07,349 - INFO - Writing overlap_85/PEC2_TK/PEC2_TK.primer.bed
+2021-04-03 11:45:07,350 - INFO - Writing overlap_85/PEC2_TK/PEC2_TK.insert.bed
+2021-04-03 11:45:07,351 - INFO - Writing overlap_85/PEC2_TK/PEC2_TK.primer.tsv
+2021-04-03 11:45:07,351 - INFO - Writing overlap_85/PEC2_TK/PEC2_TK.reference.fasta
+2021-04-03 11:45:07,356 - INFO - Writing overlap_85/PEC2_TK/PEC2_TK.plot.pdf
+2021-04-03 11:45:07,356 - INFO - Writing overlap_85/PEC2_TK/PEC2_TK.plot.svg
+2021-04-03 11:45:07,376 - INFO - Writing overlap_85/PEC2_TK/PEC2_TK.report.json

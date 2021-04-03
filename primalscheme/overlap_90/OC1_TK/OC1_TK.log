@@ -1,0 +1,13 @@
+2021-04-03 11:56:18,772 - INFO - Writing log to overlap_90/OC1_TK/OC1_TK.log
+2021-04-03 11:56:18,779 - INFO - References:
+ - OC1_TK
+2021-04-03 11:56:18,779 - INFO - Primary reference for coordinate system: OC1_TK
+2021-04-03 11:56:18,779 - INFO - Considering primers from all references
+2021-04-03 11:56:51,927 - INFO - All done! Scheme created with 37 regions, 13 gaps, 86.77% coverage
+2021-04-03 11:56:51,927 - INFO - Writing overlap_90/OC1_TK/OC1_TK.primer.bed
+2021-04-03 11:56:51,928 - INFO - Writing overlap_90/OC1_TK/OC1_TK.insert.bed
+2021-04-03 11:56:51,929 - INFO - Writing overlap_90/OC1_TK/OC1_TK.primer.tsv
+2021-04-03 11:56:51,930 - INFO - Writing overlap_90/OC1_TK/OC1_TK.reference.fasta
+2021-04-03 11:56:51,948 - INFO - Writing overlap_90/OC1_TK/OC1_TK.plot.pdf
+2021-04-03 11:56:51,948 - INFO - Writing overlap_90/OC1_TK/OC1_TK.plot.svg
+2021-04-03 11:56:52,015 - INFO - Writing overlap_90/OC1_TK/OC1_TK.report.json

@@ -1,0 +1,13 @@
+2021-04-03 11:16:03,373 - INFO - Writing log to overlap_75/MLL_TK/MLL_TK.log
+2021-04-03 11:16:03,390 - INFO - References:
+ - MLL_TK
+2021-04-03 11:16:03,391 - INFO - Primary reference for coordinate system: MLL_TK
+2021-04-03 11:16:03,391 - INFO - Considering primers from all references
+2021-04-03 11:16:05,259 - INFO - All done! Scheme created with 3 regions, 1 gap, 66.92% coverage
+2021-04-03 11:16:05,260 - INFO - Writing overlap_75/MLL_TK/MLL_TK.primer.bed
+2021-04-03 11:16:05,261 - INFO - Writing overlap_75/MLL_TK/MLL_TK.insert.bed
+2021-04-03 11:16:05,261 - INFO - Writing overlap_75/MLL_TK/MLL_TK.primer.tsv
+2021-04-03 11:16:05,262 - INFO - Writing overlap_75/MLL_TK/MLL_TK.reference.fasta
+2021-04-03 11:16:05,265 - INFO - Writing overlap_75/MLL_TK/MLL_TK.plot.pdf
+2021-04-03 11:16:05,265 - INFO - Writing overlap_75/MLL_TK/MLL_TK.plot.svg
+2021-04-03 11:16:05,278 - INFO - Writing overlap_75/MLL_TK/MLL_TK.report.json
