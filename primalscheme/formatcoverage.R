@@ -1,12 +1,16 @@
-reqpacks <- c("tidyverse","stringr","magrittr","openxlsx","fs")
-packstoinstall <- setdiff(reqpacks,installed.packages()[,1])
-if(length(packstoinstall) > 0) install.packages(packstoinstall)
 
-library(tidyverse)
-library(stringr)
-library(magrittr)
-library(openxlsx)
-library(fs)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, magrittr, stringr, openxlsx, fs)
+
+# reqpacks <- c("tidyverse","stringr","magrittr","openxlsx","fs")
+# packstoinstall <- setdiff(reqpacks,installed.packages()[,1])
+# if(length(packstoinstall) > 0) install.packages(packstoinstall)
+# 
+# library(tidyverse)
+# library(stringr)
+# library(magrittr)
+# library(openxlsx)
+# library(fs)
 
 # set working directory
 # getwd()
