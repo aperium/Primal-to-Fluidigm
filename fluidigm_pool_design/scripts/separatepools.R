@@ -1,22 +1,15 @@
-reqpacks <- c("tidyverse","stringr","magrittr","fs")
-packstoinstall <- setdiff(reqpacks,installed.packages()[,1])
-if(length(packstoinstall) > 0) install.packages(packstoinstall)
-
-library(tidyverse)
-library(stringr)
-library(magrittr)
-library(fs)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, magrittr, fs)
 
 # set working directory
-# getwd()
-#setwd("/fs/scratch/PAS1755/drw_wd/reduced_primal_by_clustal/clustal_on_primers/")
-setwd("/Users/aperium/Dropbox/Projects/OSU HCS/T. kok-saghyz/Harnessing VLHSV/reduced_primal_by_clustal/clustal_on_primers")
+#setwd("/fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/fluidigm_pool_design/scripts")
+setwd("/Users/aperium/Documents/GitHub/Primal-to-Fluidigm/fluidigm_pool_design/scripts")
 
-outpath <- path("pools")
+outpath <- path("../out/pools")
 
 # get arguments
 args = commandArgs(trailingOnly = TRUE)
-if (length(args) == 0) infile <- path("allprimers.tsv") else infile <- args[1]
+if (length(args) == 0) infile <- path("../out/allprimers.tsv") else infile <- args[1]
 
 # read tsv file
 data <- infile %>%
