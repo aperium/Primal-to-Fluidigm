@@ -3,7 +3,6 @@
 Run the scripts in this order:
 
 1. `makefastas.R`
-
 2. `runprimalscheme.sh`
 3. `grepcoverage.sh`
 4. `formatcoverage.R`
@@ -71,9 +70,12 @@ The configuration file is located at `/fs/scratch/PAS1755/drw_wd/primalscheme/sr
 
 SLURM version:
 
-```{shell}
+```shell
 #this script contains all the stuff in the non-SLURM version packaged up nicely.
 sbatch slurm_runprimalscheme.sh
+
+# to view activity
+squeue -u $USER
 ```
 
 
