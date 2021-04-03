@@ -100,6 +100,28 @@ deactivate
 
 
 
+## 5. Extract coverage and prepare visuals
+
+```shell
+cd /fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme/
+# cd /Users/aperium/Documents/GitHub/Primal-to-Fluidigm/primalscheme/
+sh grepcoverage.sh
+
+# cd ~
+# module purge
+# module load R
+# Rscript /fs/scratch/PAS1755/drw_wd/reduced_primal_by_clustal/primalscheme/formatcoverage.R
+# Rscript /fs/scratch/PAS1755/drw_wd/reduced_primal_by_clustal/primalscheme/analyzecoverage.R
+
+Rscript formatcoverage.R
+Rscript analyzecoverage.R
+
+cd /fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme/
+# cd /Users/aperium/Documents/GitHub/Primal-to-Fluidigm/primalscheme/ 
+```
+
+
+
 ## old - 2. Run primal scheme
 
 ```{shell}

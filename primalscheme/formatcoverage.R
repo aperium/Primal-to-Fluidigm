@@ -10,7 +10,8 @@ library(fs)
 
 # set working directory
 # getwd()
-setwd("/fs/scratch/PAS1755/drw_wd/reduced_primal_by_clustal/primalscheme")
+# setwd("/fs/scratch/PAS1755/drw_wd/reduced_primal_by_clustal/primalscheme")
+setwd("/Users/aperium/Documents/GitHub/Primal-to-Fluidigm/primalscheme")
 
 # get arguments
 args = commandArgs(trailingOnly = TRUE)
