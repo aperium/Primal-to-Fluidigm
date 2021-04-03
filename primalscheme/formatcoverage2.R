@@ -31,6 +31,7 @@ jsonfiles <- read_csv(jfilelist, col_names = FALSE) %>% .$X1
 # extract data from all the JSON files produced by PrimalScheme
 JSONfromfile <- function(file) fromJSON(file = file)
 jsondatalist <- lapply(jsonfiles, JSONfromfile)
+names(jsondatalist) <- jsonfiles
 # jsondata <- sapply(jsonfiles, JSONfromfile)
 
 
@@ -75,14 +76,18 @@ jsondatatibble <- tibble(
   config_primer_size_opt = NA,
   config_primer_gc_min = NA,
   config_primer_gc_max = NA,
-  config_primer_gc_opt = NA
+  config_primer_gc_opt = NA,
+  name = NA
 )
-for (i in jsondataflatterlist) {
-  jsondatatibble %<>% full_join(i)
+for (i in 1:length(jsondataflatterlist)) {
+  jsondatatibble %<>% rbind(jsondataflatterlist[[i]] %>% mutate(name = jsonfiles[i]  %>% str_split("/") %>% unlist() %>% .[2]) )
 }
+jsondatatibble %<>% na.omit()
+# for (i in jsondataflatterlist) {
+#   jsondatatibble %<>% full_join(i)
+# }
 
 # print csv file
 jsondatatibble %>%
-  na.omit() %>%
   write_csv("coverage2.csv")
 

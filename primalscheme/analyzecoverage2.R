@@ -27,7 +27,7 @@ plots <- coverage %>%
   ggplot(aes(config_target_overlap, percent_coverage)) +
   geom_smooth() +
   geom_point() + 
-  facet_wrap(vars(reference)) +
+  facet_wrap(vars(name)) +
   theme_minimal()
 
 png(file = "coverage_by_overlap2.png", width = 1000, height = 1000)
