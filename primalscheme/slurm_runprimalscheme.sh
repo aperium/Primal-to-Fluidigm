@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --account=PAS1755
-#SBATCH --time=30
+#SBATCH --time=120
 #SBATCH --output=slurm-runprimalscheme-%j.out
 set -e -u -o pipefail
 
