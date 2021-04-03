@@ -1,4 +1,5 @@
-#!/bin/bashprimalscheme multiplex -a 180 -a 500 -t 70 -n 1_FEH_TK -o overlap_70/1_FEH_TK -f fastas/1_FEH_TK.fasta 
+#!/bin/bash 
+primalscheme multiplex -a 180 -a 500 -t 70 -n 1_FEH_TK -o overlap_70/1_FEH_TK -f fastas/1_FEH_TK.fasta 
 primalscheme multiplex -a 180 -a 500 -t 70 -n 1_FFT_TK -o overlap_70/1_FFT_TK -f fastas/1_FFT_TK.fasta 
 primalscheme multiplex -a 180 -a 500 -t 70 -n 1_SST_TK -o overlap_70/1_SST_TK -f fastas/1_SST_TK.fasta 
 primalscheme multiplex -a 180 -a 500 -t 70 -n 1DDX5PR1_TK -o overlap_70/1DDX5PR1_TK -f fastas/1DDX5PR1_TK.fasta 
