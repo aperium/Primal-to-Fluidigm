@@ -80,7 +80,7 @@ jsondatatibble <- tibble(
   name = NA
 )
 for (i in 1:length(jsondataflatterlist)) {
-  jsondatatibble %<>% rbind(jsondataflatterlist[[i]] %>% mutate(name = jsonfiles[i]  %>% str_split("/") %>% unlist() %>% .[2]) )
+  jsondatatibble %<>% rbind(jsondataflatterlist[[i]] %>% mutate(name = jsonfiles[i] %>% str_split("/") %>% unlist() %>% .[2]) )
 }
 jsondatatibble %<>% na.omit()
 # for (i in jsondataflatterlist) {
