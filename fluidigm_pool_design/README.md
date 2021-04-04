@@ -6,23 +6,9 @@
 
 3. Submit each pool separately to clustal omega for identity analysis.
 
-   - Can be accessed in Python via biopython package [ClustalOmegaCommandLine](https://biopython.org/docs/1.75/api/Bio.Align.Applications.html#Bio.Align.Applications.ClustalOmegaCommandline).
+   - How to install biopython
 
-     ```python
-     from Bio.Align.Applications import ClustalOmegaCommandline
-     in_file = "../out/pools/poo1.fasta"
-     out_file = "../out/pools/clustalout/pool1_aligned.fasta"
-     clustalomega_cline = ClustalOmegaCommandline(infile=in_file, outfile=out_file, verbose=True, auto=True)
-     print(clustalomega_cline)
-     # clustalo -i unaligned.fasta -o aligned.fasta --auto -v
-     
-     # run with this command:
-     clustalomega_cline()
-     ```
-
-   - How to install
-
-   - ```shell
+     ```shell
      # launch interactive session
      sinteractive -A PAS1755 -t 60
      
@@ -59,7 +45,19 @@
      exit
      ```
 
-   - 
+   - Can be accessed in Python via biopython package [ClustalOmegaCommandLine](https://biopython.org/docs/1.75/api/Bio.Align.Applications.html#Bio.Align.Applications.ClustalOmegaCommandline). Run this from inside the active python3 environment:
+
+     ```python
+     from Bio.Align.Applications import ClustalOmegaCommandline
+     in_file = "../out/pools/poo1.fasta"
+     out_file = "../out/pools/clustalout/pool1_aligned.fasta"
+     clustalomega_cline = ClustalOmegaCommandline(infile=in_file, outfile=out_file, verbose=True, auto=True)
+     print(clustalomega_cline)
+     # clustalo -i unaligned.fasta -o aligned.fasta --auto -v
+     
+     # run with this command:
+     clustalomega_cline()
+     ```
 
 4. `assessmatricies.R` processes clustal omega results into a pairwise comparison of primer identity.
 
