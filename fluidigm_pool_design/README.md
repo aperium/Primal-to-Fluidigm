@@ -8,6 +8,8 @@
 
    - Install ClustalOmega?
 
+     - http://www.clustal.org/omega/ the MacOS binary works on my computer.
+
      ```shell
      # TODO IDK what to do here. Biopython needs the commandline version installed to work.
      ```
