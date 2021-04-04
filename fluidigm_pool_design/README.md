@@ -17,6 +17,45 @@
      # clustalo -i unaligned.fasta -o aligned.fasta --auto -v
      ```
 
+   - How to install?
+
+   - ```shell
+     # launch interactive session
+     sinteractive -A PAS1755 -t 60
+     
+     # move to appropriate directory
+     cd /fs/scratch/PAS1755/drw_wd/
+     
+     # load the latest python
+     # module spider python
+     # module load python/3.7-2019.10
+     
+     # OSC specific instructions?
+     module load python/3.6-conda5.2
+     conda create -y -n clustalo-env -c conda-forge python=3.9
+     source activate clustalo-env
+     conda install -y biopython
+     
+     # install?
+     # mkdir clustalomega
+     # cd clustalomega
+     # python3 -m venv venv
+     # source venv/bin/activate
+     # 
+     # pip install --upgrade pip # added to upgrade pip
+     # conda install -y biopython
+     ## TODO
+     
+     # test
+     
+     
+     # exit environment
+     deactivate
+     
+     # end interactive session
+     exit
+     ```
+
    - 
 
 4. `assessmatricies.R` processes clustal omega results into a pairwise comparison of primer identity.
