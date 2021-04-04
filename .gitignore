@@ -27,3 +27,4 @@ Temporary Items
 
 # Additional files and directories
 *.Rhistory
+*.RData
