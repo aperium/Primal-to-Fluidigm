@@ -6,6 +6,14 @@
 
 3. Submit each pool separately to clustal omega for identity analysis.
 
+   - Install ClustalOmega?
+
+     ```shell
+     # TODO IDK what to do here. Biopython needs the commandline version installed to work.
+     ```
+
+     
+
    - How to install biopython
 
      ```shell
@@ -15,30 +23,18 @@
      # move to appropriate directory
      cd /fs/scratch/PAS1755/drw_wd/
      
-     # load the latest python
-     # module spider python
-     # module load python/3.7-2019.10
-     
-     # OSC specific instructions?
+     # OSC specific instructions
      module load python/3.6-conda5.2
      conda create -y -n clustalo-env -c conda-forge python=3.9
+     # conda activate clustalo-env
      source activate clustalo-env
      conda install -y biopython
-     
-     # install?
-     # mkdir clustalomega
-     # cd clustalomega
-     # python3 -m venv venv
-     # source venv/bin/activate
-     # 
-     # pip install --upgrade pip # added to upgrade pip
-     # conda install -y biopython
-     ## TODO
      
      # test
      
      
      # exit environment
+     # conda deactivate
      source deactivate
      
      # end interactive session
@@ -57,6 +53,9 @@
      
      # run with this command:
      clustalomega_cline()
+     
+     # exit python
+     exit()
      ```
 
 4. `assessmatricies.R` processes clustal omega results into a pairwise comparison of primer identity.
