@@ -14,6 +14,20 @@
      # TODO IDK what to do here. Biopython needs the commandline version installed to work.
      ```
 
+   - run clustalOmega from commandline
+
+     ```shell
+     # get list of primalscheme's output files
+     LIST=($(echo ../out/pools/*.fasta))
+     
+     mkdir ../out/pools/clustalout
+     
+     for file in ${LIST[@]}; do echo "file: " $file; pool=$(basename -s ".fasta" $file); clustalo --force --full --full-iter -v -t "DNA" -i ../out/pools/"${pool}".fasta -o ../out/pools/clustalout/"${pool}"_aligned.fasta --distmat-out=../out/pools/clustalout/"${pool}".pim; done
+     
+     # clustalo --force --full --full-iter -v -t "DNA" -i ../out/pools/pool1.fasta -o ../out/pools/clustalout/pool1_aligned.fasta --distmat-out=../out/pools/clustalout/pool1.pim 
+     
+     ```
+
      
 
    - How to install biopython
@@ -33,7 +47,7 @@
      conda install -y biopython
      
      # test
-     clustalo -i ../out/pools/pool1.fasta -o ../out/pools/clustalout/pool1_aligned.fasta --auto -v
+     # TODO
      
      # exit environment
      # conda deactivate
@@ -69,12 +83,14 @@
      # move to appropriate directory
      # /Users/aperium/Documents/GitHub/Primal-to-Fluidigm/fluidigm_pool_design/scripts
      cd /fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/fluidigm_pool_design/scripts
+     mkdir "../out/pools/clustalout/"
      
      # conda activate clustalo-env
      source activate clustalo-env
      
      python3 runclustalomega.py
      
+     # conda deactivate
      source deactivate
      ```
 
