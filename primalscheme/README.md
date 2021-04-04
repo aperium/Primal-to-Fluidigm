@@ -71,6 +71,9 @@ The configuration file is located at `/fs/scratch/PAS1755/drw_wd/primalscheme/sr
 SLURM version:
 
 ```shell
+cd /fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/primalscheme
+module load git
+
 #this script contains all the stuff in the non-SLURM version packaged up nicely.
 sbatch slurm_runprimalscheme.sh
 
