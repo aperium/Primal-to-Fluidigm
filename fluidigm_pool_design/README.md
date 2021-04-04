@@ -50,7 +50,7 @@
      
      
      # exit environment
-     deactivate
+     source deactivate
      
      # end interactive session
      exit
