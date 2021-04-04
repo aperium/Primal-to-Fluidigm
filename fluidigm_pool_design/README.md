@@ -33,7 +33,7 @@
      conda install -y biopython
      
      # test
-     
+     clustalo -i ../out/pools/pool1.fasta -o ../out/pools/clustalout/pool1_aligned.fasta --auto -v
      
      # exit environment
      # conda deactivate
@@ -47,7 +47,7 @@
 
      ```python
      from Bio.Align.Applications import ClustalOmegaCommandline
-     in_file = "../out/pools/poo1.fasta"
+     in_file = "../out/pools/pool1.fasta"
      out_file = "../out/pools/clustalout/pool1_aligned.fasta"
      clustalomega_cline = ClustalOmegaCommandline(infile=in_file, outfile=out_file, verbose=True, auto=True)
      print(clustalomega_cline)
@@ -58,6 +58,24 @@
      
      # exit python
      exit()
+     ```
+     
+     New way to run this script from shell:
+     
+     ```shell
+     # launch interactive session
+     sinteractive -A PAS1755 -t 60
+     
+     # move to appropriate directory
+     # /Users/aperium/Documents/GitHub/Primal-to-Fluidigm/fluidigm_pool_design/scripts
+     cd /fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/fluidigm_pool_design/scripts
+     
+     # conda activate clustalo-env
+     source activate clustalo-env
+     
+     python3 runclustalomega.py
+     
+     source deactivate
      ```
 
 4. `assessmatricies.R` processes clustal omega results into a pairwise comparison of primer identity.
