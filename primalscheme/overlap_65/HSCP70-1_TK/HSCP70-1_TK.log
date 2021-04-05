@@ -11,3 +11,16 @@
 2021-04-03 02:02:08,392 - INFO - Writing overlap_65/HSCP70-1_TK/HSCP70-1_TK.plot.pdf
 2021-04-03 02:02:08,392 - INFO - Writing overlap_65/HSCP70-1_TK/HSCP70-1_TK.plot.svg
 2021-04-03 02:02:08,419 - INFO - Writing overlap_65/HSCP70-1_TK/HSCP70-1_TK.report.json
+2021-04-04 18:35:36,946 - INFO - Writing log to overlap_65/HSCP70-1_TK/HSCP70-1_TK.log
+2021-04-04 18:35:36,980 - INFO - References:
+ - HSCP70-1_TK
+2021-04-04 18:35:36,980 - INFO - Primary reference for coordinate system: HSCP70-1_TK
+2021-04-04 18:35:36,980 - INFO - Considering primers from all references
+2021-04-04 18:35:42,346 - INFO - All done! Scheme created with 8 regions, 2 gaps, 74.2% coverage
+2021-04-04 18:35:42,346 - INFO - Writing overlap_65/HSCP70-1_TK/HSCP70-1_TK.primer.bed
+2021-04-04 18:35:42,349 - INFO - Writing overlap_65/HSCP70-1_TK/HSCP70-1_TK.insert.bed
+2021-04-04 18:35:42,351 - INFO - Writing overlap_65/HSCP70-1_TK/HSCP70-1_TK.primer.tsv
+2021-04-04 18:35:42,354 - INFO - Writing overlap_65/HSCP70-1_TK/HSCP70-1_TK.reference.fasta
+2021-04-04 18:35:42,361 - INFO - Writing overlap_65/HSCP70-1_TK/HSCP70-1_TK.plot.pdf
+2021-04-04 18:35:42,361 - INFO - Writing overlap_65/HSCP70-1_TK/HSCP70-1_TK.plot.svg
+2021-04-04 18:35:42,388 - INFO - Writing overlap_65/HSCP70-1_TK/HSCP70-1_TK.report.json

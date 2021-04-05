@@ -11,3 +11,16 @@
 2021-04-03 01:17:05,669 - INFO - Writing overlap_50/SAS1_TK/SAS1_TK.plot.pdf
 2021-04-03 01:17:05,670 - INFO - Writing overlap_50/SAS1_TK/SAS1_TK.plot.svg
 2021-04-03 01:17:05,721 - INFO - Writing overlap_50/SAS1_TK/SAS1_TK.report.json
+2021-04-04 17:55:08,231 - INFO - Writing log to overlap_50/SAS1_TK/SAS1_TK.log
+2021-04-04 17:55:08,247 - INFO - References:
+ - SAS1_TK
+2021-04-04 17:55:08,247 - INFO - Primary reference for coordinate system: SAS1_TK
+2021-04-04 17:55:08,247 - INFO - Considering primers from all references
+2021-04-04 17:55:10,898 - INFO - All done! Scheme created with 4 regions, 1 gap, 56.39% coverage
+2021-04-04 17:55:10,899 - INFO - Writing overlap_50/SAS1_TK/SAS1_TK.primer.bed
+2021-04-04 17:55:10,901 - INFO - Writing overlap_50/SAS1_TK/SAS1_TK.insert.bed
+2021-04-04 17:55:10,904 - INFO - Writing overlap_50/SAS1_TK/SAS1_TK.primer.tsv
+2021-04-04 17:55:10,906 - INFO - Writing overlap_50/SAS1_TK/SAS1_TK.reference.fasta
+2021-04-04 17:55:10,912 - INFO - Writing overlap_50/SAS1_TK/SAS1_TK.plot.pdf
+2021-04-04 17:55:10,912 - INFO - Writing overlap_50/SAS1_TK/SAS1_TK.plot.svg
+2021-04-04 17:55:10,949 - INFO - Writing overlap_50/SAS1_TK/SAS1_TK.report.json

@@ -11,3 +11,16 @@
 2021-04-03 00:43:15,170 - INFO - Writing overlap_40/PPMK2_TK/PPMK2_TK.plot.pdf
 2021-04-03 00:43:15,170 - INFO - Writing overlap_40/PPMK2_TK/PPMK2_TK.plot.svg
 2021-04-03 00:43:15,204 - INFO - Writing overlap_40/PPMK2_TK/PPMK2_TK.report.json
+2021-04-04 17:24:21,542 - INFO - Writing log to overlap_40/PPMK2_TK/PPMK2_TK.log
+2021-04-04 17:24:21,572 - INFO - References:
+ - PPMK2_TK
+2021-04-04 17:24:21,572 - INFO - Primary reference for coordinate system: PPMK2_TK
+2021-04-04 17:24:21,572 - INFO - Considering primers from all references
+2021-04-04 17:24:30,162 - INFO - All done! Scheme created with 12 regions, 2 gaps, 84.12% coverage
+2021-04-04 17:24:30,162 - INFO - Writing overlap_40/PPMK2_TK/PPMK2_TK.primer.bed
+2021-04-04 17:24:30,166 - INFO - Writing overlap_40/PPMK2_TK/PPMK2_TK.insert.bed
+2021-04-04 17:24:30,170 - INFO - Writing overlap_40/PPMK2_TK/PPMK2_TK.primer.tsv
+2021-04-04 17:24:30,174 - INFO - Writing overlap_40/PPMK2_TK/PPMK2_TK.reference.fasta
+2021-04-04 17:24:30,185 - INFO - Writing overlap_40/PPMK2_TK/PPMK2_TK.plot.pdf
+2021-04-04 17:24:30,185 - INFO - Writing overlap_40/PPMK2_TK/PPMK2_TK.plot.svg
+2021-04-04 17:24:30,221 - INFO - Writing overlap_40/PPMK2_TK/PPMK2_TK.report.json

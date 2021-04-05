@@ -24,3 +24,16 @@
 2021-04-03 02:12:53,723 - INFO - Writing overlap_70/ACC1_TK/ACC1_TK.plot.pdf
 2021-04-03 02:12:53,724 - INFO - Writing overlap_70/ACC1_TK/ACC1_TK.plot.svg
 2021-04-03 02:12:53,757 - INFO - Writing overlap_70/ACC1_TK/ACC1_TK.report.json
+2021-04-04 18:45:25,572 - INFO - Writing log to overlap_70/ACC1_TK/ACC1_TK.log
+2021-04-04 18:45:25,597 - INFO - References:
+ - ACC1_TK
+2021-04-04 18:45:25,597 - INFO - Primary reference for coordinate system: ACC1_TK
+2021-04-04 18:45:25,597 - INFO - Considering primers from all references
+2021-04-04 18:45:31,149 - INFO - All done! Scheme created with 8 regions, 3 gaps, 63.16% coverage
+2021-04-04 18:45:31,150 - INFO - Writing overlap_70/ACC1_TK/ACC1_TK.primer.bed
+2021-04-04 18:45:31,153 - INFO - Writing overlap_70/ACC1_TK/ACC1_TK.insert.bed
+2021-04-04 18:45:31,155 - INFO - Writing overlap_70/ACC1_TK/ACC1_TK.primer.tsv
+2021-04-04 18:45:31,158 - INFO - Writing overlap_70/ACC1_TK/ACC1_TK.reference.fasta
+2021-04-04 18:45:31,165 - INFO - Writing overlap_70/ACC1_TK/ACC1_TK.plot.pdf
+2021-04-04 18:45:31,165 - INFO - Writing overlap_70/ACC1_TK/ACC1_TK.plot.svg
+2021-04-04 18:45:31,192 - INFO - Writing overlap_70/ACC1_TK/ACC1_TK.report.json

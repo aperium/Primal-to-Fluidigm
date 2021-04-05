@@ -11,3 +11,16 @@
 2021-04-03 01:43:41,430 - INFO - Writing overlap_60/EH_TK/EH_TK.plot.pdf
 2021-04-03 01:43:41,431 - INFO - Writing overlap_60/EH_TK/EH_TK.plot.svg
 2021-04-03 01:43:41,452 - INFO - Writing overlap_60/EH_TK/EH_TK.report.json
+2021-04-04 18:18:56,511 - INFO - Writing log to overlap_60/EH_TK/EH_TK.log
+2021-04-04 18:18:56,545 - INFO - References:
+ - EH_TK
+2021-04-04 18:18:56,545 - INFO - Primary reference for coordinate system: EH_TK
+2021-04-04 18:18:56,545 - INFO - Considering primers from all references
+2021-04-04 18:19:00,031 - INFO - All done! Scheme created with 5 regions, 1 gap, 68.84% coverage
+2021-04-04 18:19:00,031 - INFO - Writing overlap_60/EH_TK/EH_TK.primer.bed
+2021-04-04 18:19:00,034 - INFO - Writing overlap_60/EH_TK/EH_TK.insert.bed
+2021-04-04 18:19:00,037 - INFO - Writing overlap_60/EH_TK/EH_TK.primer.tsv
+2021-04-04 18:19:00,039 - INFO - Writing overlap_60/EH_TK/EH_TK.reference.fasta
+2021-04-04 18:19:00,045 - INFO - Writing overlap_60/EH_TK/EH_TK.plot.pdf
+2021-04-04 18:19:00,045 - INFO - Writing overlap_60/EH_TK/EH_TK.plot.svg
+2021-04-04 18:19:00,068 - INFO - Writing overlap_60/EH_TK/EH_TK.report.json

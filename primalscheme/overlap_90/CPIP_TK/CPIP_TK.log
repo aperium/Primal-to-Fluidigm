@@ -1,0 +1,13 @@
+2021-04-04 19:47:16,881 - INFO - Writing log to overlap_90/CPIP_TK/CPIP_TK.log
+2021-04-04 19:47:16,887 - INFO - References:
+ - CPIP_TK
+2021-04-04 19:47:16,887 - INFO - Primary reference for coordinate system: CPIP_TK
+2021-04-04 19:47:16,887 - INFO - Considering primers from all references
+2021-04-04 19:47:21,211 - INFO - All done! Scheme created with 6 regions, 2 gaps, 63.22% coverage
+2021-04-04 19:47:21,211 - INFO - Writing overlap_90/CPIP_TK/CPIP_TK.primer.bed
+2021-04-04 19:47:21,213 - INFO - Writing overlap_90/CPIP_TK/CPIP_TK.insert.bed
+2021-04-04 19:47:21,213 - INFO - Writing overlap_90/CPIP_TK/CPIP_TK.primer.tsv
+2021-04-04 19:47:21,214 - INFO - Writing overlap_90/CPIP_TK/CPIP_TK.reference.fasta
+2021-04-04 19:47:21,219 - INFO - Writing overlap_90/CPIP_TK/CPIP_TK.plot.pdf
+2021-04-04 19:47:21,219 - INFO - Writing overlap_90/CPIP_TK/CPIP_TK.plot.svg
+2021-04-04 19:47:21,240 - INFO - Writing overlap_90/CPIP_TK/CPIP_TK.report.json

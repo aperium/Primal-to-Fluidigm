@@ -11,3 +11,16 @@
 2021-04-03 01:53:17,110 - INFO - Writing overlap_65/1DDX5PR1_TK/1DDX5PR1_TK.plot.pdf
 2021-04-03 01:53:17,110 - INFO - Writing overlap_65/1DDX5PR1_TK/1DDX5PR1_TK.plot.svg
 2021-04-03 01:53:17,143 - INFO - Writing overlap_65/1DDX5PR1_TK/1DDX5PR1_TK.report.json
+2021-04-04 18:27:28,907 - INFO - Writing log to overlap_65/1DDX5PR1_TK/1DDX5PR1_TK.log
+2021-04-04 18:27:28,931 - INFO - References:
+ - 1DDX5PR1_TK
+2021-04-04 18:27:28,931 - INFO - Primary reference for coordinate system: 1DDX5PR1_TK
+2021-04-04 18:27:28,931 - INFO - Considering primers from all references
+2021-04-04 18:27:37,590 - INFO - All done! Scheme created with 12 regions, 2 gaps, 84.54% coverage
+2021-04-04 18:27:37,590 - INFO - Writing overlap_65/1DDX5PR1_TK/1DDX5PR1_TK.primer.bed
+2021-04-04 18:27:37,593 - INFO - Writing overlap_65/1DDX5PR1_TK/1DDX5PR1_TK.insert.bed
+2021-04-04 18:27:37,596 - INFO - Writing overlap_65/1DDX5PR1_TK/1DDX5PR1_TK.primer.tsv
+2021-04-04 18:27:37,598 - INFO - Writing overlap_65/1DDX5PR1_TK/1DDX5PR1_TK.reference.fasta
+2021-04-04 18:27:37,607 - INFO - Writing overlap_65/1DDX5PR1_TK/1DDX5PR1_TK.plot.pdf
+2021-04-04 18:27:37,608 - INFO - Writing overlap_65/1DDX5PR1_TK/1DDX5PR1_TK.plot.svg
+2021-04-04 18:27:37,641 - INFO - Writing overlap_65/1DDX5PR1_TK/1DDX5PR1_TK.report.json

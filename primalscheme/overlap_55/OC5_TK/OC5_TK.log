@@ -11,3 +11,16 @@
 2021-04-03 01:31:36,292 - INFO - Writing overlap_55/OC5_TK/OC5_TK.plot.pdf
 2021-04-03 01:31:36,292 - INFO - Writing overlap_55/OC5_TK/OC5_TK.plot.svg
 2021-04-03 01:31:36,353 - INFO - Writing overlap_55/OC5_TK/OC5_TK.report.json
+2021-04-04 18:07:47,968 - INFO - Writing log to overlap_55/OC5_TK/OC5_TK.log
+2021-04-04 18:07:48,015 - INFO - References:
+ - OC5_TK
+2021-04-04 18:07:48,015 - INFO - Primary reference for coordinate system: OC5_TK
+2021-04-04 18:07:48,015 - INFO - Considering primers from all references
+2021-04-04 18:08:09,623 - INFO - All done! Scheme created with 28 regions, 10 gaps, 87.99% coverage
+2021-04-04 18:08:09,623 - INFO - Writing overlap_55/OC5_TK/OC5_TK.primer.bed
+2021-04-04 18:08:09,626 - INFO - Writing overlap_55/OC5_TK/OC5_TK.insert.bed
+2021-04-04 18:08:09,629 - INFO - Writing overlap_55/OC5_TK/OC5_TK.primer.tsv
+2021-04-04 18:08:09,631 - INFO - Writing overlap_55/OC5_TK/OC5_TK.reference.fasta
+2021-04-04 18:08:09,648 - INFO - Writing overlap_55/OC5_TK/OC5_TK.plot.pdf
+2021-04-04 18:08:09,648 - INFO - Writing overlap_55/OC5_TK/OC5_TK.plot.svg
+2021-04-04 18:08:09,707 - INFO - Writing overlap_55/OC5_TK/OC5_TK.report.json

@@ -24,3 +24,16 @@
 2021-04-03 01:11:39,450 - INFO - Writing overlap_50/FT_TK/FT_TK.plot.pdf
 2021-04-03 01:11:39,450 - INFO - Writing overlap_50/FT_TK/FT_TK.plot.svg
 2021-04-03 01:11:39,494 - INFO - Writing overlap_50/FT_TK/FT_TK.report.json
+2021-04-04 17:50:07,168 - INFO - Writing log to overlap_50/FT_TK/FT_TK.log
+2021-04-04 17:50:07,201 - INFO - References:
+ - FT_TK
+2021-04-04 17:50:07,201 - INFO - Primary reference for coordinate system: FT_TK
+2021-04-04 17:50:07,201 - INFO - Considering primers from all references
+2021-04-04 17:50:18,182 - INFO - All done! Scheme created with 15 regions, 5 gaps, 84.89% coverage
+2021-04-04 17:50:18,182 - INFO - Writing overlap_50/FT_TK/FT_TK.primer.bed
+2021-04-04 17:50:18,185 - INFO - Writing overlap_50/FT_TK/FT_TK.insert.bed
+2021-04-04 17:50:18,188 - INFO - Writing overlap_50/FT_TK/FT_TK.primer.tsv
+2021-04-04 17:50:18,190 - INFO - Writing overlap_50/FT_TK/FT_TK.reference.fasta
+2021-04-04 17:50:18,201 - INFO - Writing overlap_50/FT_TK/FT_TK.plot.pdf
+2021-04-04 17:50:18,201 - INFO - Writing overlap_50/FT_TK/FT_TK.plot.svg
+2021-04-04 17:50:18,238 - INFO - Writing overlap_50/FT_TK/FT_TK.report.json

@@ -11,3 +11,16 @@
 2021-04-03 02:08:00,576 - INFO - Writing overlap_65/SQE4_TK/SQE4_TK.plot.pdf
 2021-04-03 02:08:00,577 - INFO - Writing overlap_65/SQE4_TK/SQE4_TK.plot.svg
 2021-04-03 02:08:00,610 - INFO - Writing overlap_65/SQE4_TK/SQE4_TK.report.json
+2021-04-04 18:40:54,721 - INFO - Writing log to overlap_65/SQE4_TK/SQE4_TK.log
+2021-04-04 18:40:54,740 - INFO - References:
+ - SQE4_TK
+2021-04-04 18:40:54,740 - INFO - Primary reference for coordinate system: SQE4_TK
+2021-04-04 18:40:54,740 - INFO - Considering primers from all references
+2021-04-04 18:41:03,377 - INFO - All done! Scheme created with 12 regions, 5 gaps, 74.97% coverage
+2021-04-04 18:41:03,378 - INFO - Writing overlap_65/SQE4_TK/SQE4_TK.primer.bed
+2021-04-04 18:41:03,381 - INFO - Writing overlap_65/SQE4_TK/SQE4_TK.insert.bed
+2021-04-04 18:41:03,384 - INFO - Writing overlap_65/SQE4_TK/SQE4_TK.primer.tsv
+2021-04-04 18:41:03,386 - INFO - Writing overlap_65/SQE4_TK/SQE4_TK.reference.fasta
+2021-04-04 18:41:03,395 - INFO - Writing overlap_65/SQE4_TK/SQE4_TK.plot.pdf
+2021-04-04 18:41:03,395 - INFO - Writing overlap_65/SQE4_TK/SQE4_TK.plot.svg
+2021-04-04 18:41:03,427 - INFO - Writing overlap_65/SQE4_TK/SQE4_TK.report.json

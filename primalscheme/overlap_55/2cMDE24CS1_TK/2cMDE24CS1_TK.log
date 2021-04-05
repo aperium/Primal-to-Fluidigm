@@ -11,3 +11,16 @@
 2021-04-03 01:21:27,976 - INFO - Writing overlap_55/2cMDE24CS1_TK/2cMDE24CS1_TK.plot.pdf
 2021-04-03 01:21:27,976 - INFO - Writing overlap_55/2cMDE24CS1_TK/2cMDE24CS1_TK.plot.svg
 2021-04-03 01:21:27,999 - INFO - Writing overlap_55/2cMDE24CS1_TK/2cMDE24CS1_TK.report.json
+2021-04-04 17:58:59,514 - INFO - Writing log to overlap_55/2cMDE24CS1_TK/2cMDE24CS1_TK.log
+2021-04-04 17:58:59,580 - INFO - References:
+ - 2cMDE24CS1_TK
+2021-04-04 17:58:59,580 - INFO - Primary reference for coordinate system: 2cMDE24CS1_TK
+2021-04-04 17:58:59,580 - INFO - Considering primers from all references
+2021-04-04 17:59:03,823 - INFO - All done! Scheme created with 6 regions, 2 gaps, 75.06% coverage
+2021-04-04 17:59:03,824 - INFO - Writing overlap_55/2cMDE24CS1_TK/2cMDE24CS1_TK.primer.bed
+2021-04-04 17:59:03,827 - INFO - Writing overlap_55/2cMDE24CS1_TK/2cMDE24CS1_TK.insert.bed
+2021-04-04 17:59:03,829 - INFO - Writing overlap_55/2cMDE24CS1_TK/2cMDE24CS1_TK.primer.tsv
+2021-04-04 17:59:03,831 - INFO - Writing overlap_55/2cMDE24CS1_TK/2cMDE24CS1_TK.reference.fasta
+2021-04-04 17:59:03,838 - INFO - Writing overlap_55/2cMDE24CS1_TK/2cMDE24CS1_TK.plot.pdf
+2021-04-04 17:59:03,838 - INFO - Writing overlap_55/2cMDE24CS1_TK/2cMDE24CS1_TK.plot.svg
+2021-04-04 17:59:03,861 - INFO - Writing overlap_55/2cMDE24CS1_TK/2cMDE24CS1_TK.report.json

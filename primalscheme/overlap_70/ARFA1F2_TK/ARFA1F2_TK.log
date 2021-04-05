@@ -24,3 +24,16 @@
 2021-04-03 02:14:25,994 - INFO - Writing overlap_70/ARFA1F2_TK/ARFA1F2_TK.plot.pdf
 2021-04-03 02:14:25,994 - INFO - Writing overlap_70/ARFA1F2_TK/ARFA1F2_TK.plot.svg
 2021-04-03 02:14:26,021 - INFO - Writing overlap_70/ARFA1F2_TK/ARFA1F2_TK.report.json
+2021-04-04 18:46:50,707 - INFO - Writing log to overlap_70/ARFA1F2_TK/ARFA1F2_TK.log
+2021-04-04 18:46:50,733 - INFO - References:
+ - ARFA1F2_TK
+2021-04-04 18:46:50,733 - INFO - Primary reference for coordinate system: ARFA1F2_TK
+2021-04-04 18:46:50,733 - INFO - Considering primers from all references
+2021-04-04 18:46:54,244 - INFO - All done! Scheme created with 5 regions, 2 gaps, 71.01% coverage
+2021-04-04 18:46:54,244 - INFO - Writing overlap_70/ARFA1F2_TK/ARFA1F2_TK.primer.bed
+2021-04-04 18:46:54,247 - INFO - Writing overlap_70/ARFA1F2_TK/ARFA1F2_TK.insert.bed
+2021-04-04 18:46:54,249 - INFO - Writing overlap_70/ARFA1F2_TK/ARFA1F2_TK.primer.tsv
+2021-04-04 18:46:54,251 - INFO - Writing overlap_70/ARFA1F2_TK/ARFA1F2_TK.reference.fasta
+2021-04-04 18:46:54,257 - INFO - Writing overlap_70/ARFA1F2_TK/ARFA1F2_TK.plot.pdf
+2021-04-04 18:46:54,257 - INFO - Writing overlap_70/ARFA1F2_TK/ARFA1F2_TK.plot.svg
+2021-04-04 18:46:54,279 - INFO - Writing overlap_70/ARFA1F2_TK/ARFA1F2_TK.report.json

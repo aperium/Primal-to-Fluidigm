@@ -11,3 +11,16 @@
 2021-04-03 01:01:52,971 - INFO - Writing overlap_45/SRPP3_TK/SRPP3_TK.plot.pdf
 2021-04-03 01:01:52,971 - INFO - Writing overlap_45/SRPP3_TK/SRPP3_TK.plot.svg
 2021-04-03 01:01:52,993 - INFO - Writing overlap_45/SRPP3_TK/SRPP3_TK.report.json
+2021-04-04 17:41:14,206 - INFO - Writing log to overlap_45/SRPP3_TK/SRPP3_TK.log
+2021-04-04 17:41:14,222 - INFO - References:
+ - SRPP3_TK
+2021-04-04 17:41:14,223 - INFO - Primary reference for coordinate system: SRPP3_TK
+2021-04-04 17:41:14,223 - INFO - Considering primers from all references
+2021-04-04 17:41:17,753 - INFO - All done! Scheme created with 5 regions, 1 gap, 73.15% coverage
+2021-04-04 17:41:17,753 - INFO - Writing overlap_45/SRPP3_TK/SRPP3_TK.primer.bed
+2021-04-04 17:41:17,758 - INFO - Writing overlap_45/SRPP3_TK/SRPP3_TK.insert.bed
+2021-04-04 17:41:17,762 - INFO - Writing overlap_45/SRPP3_TK/SRPP3_TK.primer.tsv
+2021-04-04 17:41:17,765 - INFO - Writing overlap_45/SRPP3_TK/SRPP3_TK.reference.fasta
+2021-04-04 17:41:17,772 - INFO - Writing overlap_45/SRPP3_TK/SRPP3_TK.plot.pdf
+2021-04-04 17:41:17,772 - INFO - Writing overlap_45/SRPP3_TK/SRPP3_TK.plot.svg
+2021-04-04 17:41:17,796 - INFO - Writing overlap_45/SRPP3_TK/SRPP3_TK.report.json

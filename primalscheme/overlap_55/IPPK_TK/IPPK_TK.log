@@ -24,3 +24,16 @@
 2021-04-03 01:29:03,858 - INFO - Writing overlap_55/IPPK_TK/IPPK_TK.plot.pdf
 2021-04-03 01:29:03,858 - INFO - Writing overlap_55/IPPK_TK/IPPK_TK.plot.svg
 2021-04-03 01:29:03,917 - INFO - Writing overlap_55/IPPK_TK/IPPK_TK.report.json
+2021-04-04 18:05:50,057 - INFO - Writing log to overlap_55/IPPK_TK/IPPK_TK.log
+2021-04-04 18:05:50,080 - INFO - References:
+ - IPPK_TK
+2021-04-04 18:05:50,080 - INFO - Primary reference for coordinate system: IPPK_TK
+2021-04-04 18:05:50,080 - INFO - Considering primers from all references
+2021-04-04 18:05:52,759 - INFO - All done! Scheme created with 4 regions, 0 gaps, 68.6% coverage
+2021-04-04 18:05:52,760 - INFO - Writing overlap_55/IPPK_TK/IPPK_TK.primer.bed
+2021-04-04 18:05:52,763 - INFO - Writing overlap_55/IPPK_TK/IPPK_TK.insert.bed
+2021-04-04 18:05:52,765 - INFO - Writing overlap_55/IPPK_TK/IPPK_TK.primer.tsv
+2021-04-04 18:05:52,767 - INFO - Writing overlap_55/IPPK_TK/IPPK_TK.reference.fasta
+2021-04-04 18:05:52,773 - INFO - Writing overlap_55/IPPK_TK/IPPK_TK.plot.pdf
+2021-04-04 18:05:52,773 - INFO - Writing overlap_55/IPPK_TK/IPPK_TK.plot.svg
+2021-04-04 18:05:52,815 - INFO - Writing overlap_55/IPPK_TK/IPPK_TK.report.json

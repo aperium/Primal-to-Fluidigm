@@ -11,3 +11,16 @@
 2021-04-03 11:25:49,543 - INFO - Writing overlap_80/CASP1_TK/CASP1_TK.plot.pdf
 2021-04-03 11:25:49,543 - INFO - Writing overlap_80/CASP1_TK/CASP1_TK.plot.svg
 2021-04-03 11:25:49,559 - INFO - Writing overlap_80/CASP1_TK/CASP1_TK.report.json
+2021-04-04 19:16:55,238 - INFO - Writing log to overlap_80/CASP1_TK/CASP1_TK.log
+2021-04-04 19:16:55,259 - INFO - References:
+ - CASP1_TK
+2021-04-04 19:16:55,259 - INFO - Primary reference for coordinate system: CASP1_TK
+2021-04-04 19:16:55,259 - INFO - Considering primers from all references
+2021-04-04 19:16:58,677 - INFO - All done! Scheme created with 5 regions, 0 gaps, 72.68% coverage
+2021-04-04 19:16:58,677 - INFO - Writing overlap_80/CASP1_TK/CASP1_TK.primer.bed
+2021-04-04 19:16:58,680 - INFO - Writing overlap_80/CASP1_TK/CASP1_TK.insert.bed
+2021-04-04 19:16:58,683 - INFO - Writing overlap_80/CASP1_TK/CASP1_TK.primer.tsv
+2021-04-04 19:16:58,686 - INFO - Writing overlap_80/CASP1_TK/CASP1_TK.reference.fasta
+2021-04-04 19:16:58,692 - INFO - Writing overlap_80/CASP1_TK/CASP1_TK.plot.pdf
+2021-04-04 19:16:58,692 - INFO - Writing overlap_80/CASP1_TK/CASP1_TK.plot.svg
+2021-04-04 19:16:58,713 - INFO - Writing overlap_80/CASP1_TK/CASP1_TK.report.json

@@ -11,3 +11,16 @@
 2021-04-03 11:39:42,449 - INFO - Writing overlap_85/CO_TK/CO_TK.plot.pdf
 2021-04-03 11:39:42,449 - INFO - Writing overlap_85/CO_TK/CO_TK.plot.svg
 2021-04-03 11:39:42,469 - INFO - Writing overlap_85/CO_TK/CO_TK.report.json
+2021-04-04 19:32:21,468 - INFO - Writing log to overlap_85/CO_TK/CO_TK.log
+2021-04-04 19:32:21,486 - INFO - References:
+ - CO_TK
+2021-04-04 19:32:21,486 - INFO - Primary reference for coordinate system: CO_TK
+2021-04-04 19:32:21,486 - INFO - Considering primers from all references
+2021-04-04 19:32:26,364 - INFO - All done! Scheme created with 7 regions, 3 gaps, 79.31% coverage
+2021-04-04 19:32:26,364 - INFO - Writing overlap_85/CO_TK/CO_TK.primer.bed
+2021-04-04 19:32:26,367 - INFO - Writing overlap_85/CO_TK/CO_TK.insert.bed
+2021-04-04 19:32:26,370 - INFO - Writing overlap_85/CO_TK/CO_TK.primer.tsv
+2021-04-04 19:32:26,373 - INFO - Writing overlap_85/CO_TK/CO_TK.reference.fasta
+2021-04-04 19:32:26,380 - INFO - Writing overlap_85/CO_TK/CO_TK.plot.pdf
+2021-04-04 19:32:26,380 - INFO - Writing overlap_85/CO_TK/CO_TK.plot.svg
+2021-04-04 19:32:26,405 - INFO - Writing overlap_85/CO_TK/CO_TK.report.json

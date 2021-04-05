@@ -11,3 +11,16 @@
 2021-04-03 01:36:02,230 - INFO - Writing overlap_55/UCE9_TK/UCE9_TK.plot.pdf
 2021-04-03 01:36:02,230 - INFO - Writing overlap_55/UCE9_TK/UCE9_TK.plot.svg
 2021-04-03 01:36:02,247 - INFO - Writing overlap_55/UCE9_TK/UCE9_TK.report.json
+2021-04-04 18:12:07,270 - INFO - Writing log to overlap_55/UCE9_TK/UCE9_TK.log
+2021-04-04 18:12:07,300 - INFO - References:
+ - UCE9_TK
+2021-04-04 18:12:07,300 - INFO - Primary reference for coordinate system: UCE9_TK
+2021-04-04 18:12:07,300 - INFO - Considering primers from all references
+2021-04-04 18:12:09,477 - INFO - All done! Scheme created with 3 regions, 1 gap, 62.55% coverage
+2021-04-04 18:12:09,477 - INFO - Writing overlap_55/UCE9_TK/UCE9_TK.primer.bed
+2021-04-04 18:12:09,480 - INFO - Writing overlap_55/UCE9_TK/UCE9_TK.insert.bed
+2021-04-04 18:12:09,482 - INFO - Writing overlap_55/UCE9_TK/UCE9_TK.primer.tsv
+2021-04-04 18:12:09,485 - INFO - Writing overlap_55/UCE9_TK/UCE9_TK.reference.fasta
+2021-04-04 18:12:09,490 - INFO - Writing overlap_55/UCE9_TK/UCE9_TK.plot.pdf
+2021-04-04 18:12:09,490 - INFO - Writing overlap_55/UCE9_TK/UCE9_TK.plot.svg
+2021-04-04 18:12:09,507 - INFO - Writing overlap_55/UCE9_TK/UCE9_TK.report.json

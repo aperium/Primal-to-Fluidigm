@@ -11,3 +11,16 @@
 2021-04-03 01:38:55,153 - INFO - Writing overlap_60/3H3MCR4_TK/3H3MCR4_TK.plot.pdf
 2021-04-03 01:38:55,154 - INFO - Writing overlap_60/3H3MCR4_TK/3H3MCR4_TK.plot.svg
 2021-04-03 01:38:55,180 - INFO - Writing overlap_60/3H3MCR4_TK/3H3MCR4_TK.report.json
+2021-04-04 18:14:40,302 - INFO - Writing log to overlap_60/3H3MCR4_TK/3H3MCR4_TK.log
+2021-04-04 18:14:40,318 - INFO - References:
+ - 3H3MCR4_TK
+2021-04-04 18:14:40,318 - INFO - Primary reference for coordinate system: 3H3MCR4_TK
+2021-04-04 18:14:40,318 - INFO - Considering primers from all references
+2021-04-04 18:14:44,260 - INFO - All done! Scheme created with 6 regions, 2 gaps, 62.05% coverage
+2021-04-04 18:14:44,261 - INFO - Writing overlap_60/3H3MCR4_TK/3H3MCR4_TK.primer.bed
+2021-04-04 18:14:44,263 - INFO - Writing overlap_60/3H3MCR4_TK/3H3MCR4_TK.insert.bed
+2021-04-04 18:14:44,266 - INFO - Writing overlap_60/3H3MCR4_TK/3H3MCR4_TK.primer.tsv
+2021-04-04 18:14:44,268 - INFO - Writing overlap_60/3H3MCR4_TK/3H3MCR4_TK.reference.fasta
+2021-04-04 18:14:44,275 - INFO - Writing overlap_60/3H3MCR4_TK/3H3MCR4_TK.plot.pdf
+2021-04-04 18:14:44,275 - INFO - Writing overlap_60/3H3MCR4_TK/3H3MCR4_TK.plot.svg
+2021-04-04 18:14:44,300 - INFO - Writing overlap_60/3H3MCR4_TK/3H3MCR4_TK.report.json

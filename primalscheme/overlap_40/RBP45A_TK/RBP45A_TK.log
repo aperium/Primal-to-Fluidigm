@@ -11,3 +11,16 @@
 2021-04-03 00:43:47,121 - INFO - Writing overlap_40/RBP45A_TK/RBP45A_TK.plot.pdf
 2021-04-03 00:43:47,121 - INFO - Writing overlap_40/RBP45A_TK/RBP45A_TK.plot.svg
 2021-04-03 00:43:47,154 - INFO - Writing overlap_40/RBP45A_TK/RBP45A_TK.report.json
+2021-04-04 17:24:50,433 - INFO - Writing log to overlap_40/RBP45A_TK/RBP45A_TK.log
+2021-04-04 17:24:50,469 - INFO - References:
+ - RBP45A_TK
+2021-04-04 17:24:50,469 - INFO - Primary reference for coordinate system: RBP45A_TK
+2021-04-04 17:24:50,469 - INFO - Considering primers from all references
+2021-04-04 17:24:59,459 - INFO - All done! Scheme created with 13 regions, 3 gaps, 81.65% coverage
+2021-04-04 17:24:59,460 - INFO - Writing overlap_40/RBP45A_TK/RBP45A_TK.primer.bed
+2021-04-04 17:24:59,464 - INFO - Writing overlap_40/RBP45A_TK/RBP45A_TK.insert.bed
+2021-04-04 17:24:59,468 - INFO - Writing overlap_40/RBP45A_TK/RBP45A_TK.primer.tsv
+2021-04-04 17:24:59,471 - INFO - Writing overlap_40/RBP45A_TK/RBP45A_TK.reference.fasta
+2021-04-04 17:24:59,482 - INFO - Writing overlap_40/RBP45A_TK/RBP45A_TK.plot.pdf
+2021-04-04 17:24:59,482 - INFO - Writing overlap_40/RBP45A_TK/RBP45A_TK.plot.svg
+2021-04-04 17:24:59,519 - INFO - Writing overlap_40/RBP45A_TK/RBP45A_TK.report.json

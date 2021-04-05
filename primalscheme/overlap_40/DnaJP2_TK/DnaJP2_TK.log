@@ -11,3 +11,16 @@
 2021-04-03 00:36:32,066 - INFO - Writing overlap_40/DnaJP2_TK/DnaJP2_TK.plot.pdf
 2021-04-03 00:36:32,066 - INFO - Writing overlap_40/DnaJP2_TK/DnaJP2_TK.plot.svg
 2021-04-03 00:36:32,097 - INFO - Writing overlap_40/DnaJP2_TK/DnaJP2_TK.report.json
+2021-04-04 17:18:15,372 - INFO - Writing log to overlap_40/DnaJP2_TK/DnaJP2_TK.log
+2021-04-04 17:18:15,400 - INFO - References:
+ - DnaJP2_TK
+2021-04-04 17:18:15,400 - INFO - Primary reference for coordinate system: DnaJP2_TK
+2021-04-04 17:18:15,400 - INFO - Considering primers from all references
+2021-04-04 17:18:22,408 - INFO - All done! Scheme created with 10 regions, 3 gaps, 83.09% coverage
+2021-04-04 17:18:22,408 - INFO - Writing overlap_40/DnaJP2_TK/DnaJP2_TK.primer.bed
+2021-04-04 17:18:22,412 - INFO - Writing overlap_40/DnaJP2_TK/DnaJP2_TK.insert.bed
+2021-04-04 17:18:22,415 - INFO - Writing overlap_40/DnaJP2_TK/DnaJP2_TK.primer.tsv
+2021-04-04 17:18:22,418 - INFO - Writing overlap_40/DnaJP2_TK/DnaJP2_TK.reference.fasta
+2021-04-04 17:18:22,427 - INFO - Writing overlap_40/DnaJP2_TK/DnaJP2_TK.plot.pdf
+2021-04-04 17:18:22,427 - INFO - Writing overlap_40/DnaJP2_TK/DnaJP2_TK.plot.svg
+2021-04-04 17:18:22,457 - INFO - Writing overlap_40/DnaJP2_TK/DnaJP2_TK.report.json

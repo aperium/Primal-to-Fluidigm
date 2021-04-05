@@ -24,3 +24,16 @@
 2021-04-03 02:21:56,131 - INFO - Writing overlap_70/PIRL_TK/PIRL_TK.plot.pdf
 2021-04-03 02:21:56,131 - INFO - Writing overlap_70/PIRL_TK/PIRL_TK.plot.svg
 2021-04-03 02:21:56,165 - INFO - Writing overlap_70/PIRL_TK/PIRL_TK.report.json
+2021-04-04 18:53:40,719 - INFO - Writing log to overlap_70/PIRL_TK/PIRL_TK.log
+2021-04-04 18:53:40,749 - INFO - References:
+ - PIRL_TK
+2021-04-04 18:53:40,750 - INFO - Primary reference for coordinate system: PIRL_TK
+2021-04-04 18:53:40,750 - INFO - Considering primers from all references
+2021-04-04 18:53:47,025 - INFO - All done! Scheme created with 9 regions, 3 gaps, 75.39% coverage
+2021-04-04 18:53:47,025 - INFO - Writing overlap_70/PIRL_TK/PIRL_TK.primer.bed
+2021-04-04 18:53:47,028 - INFO - Writing overlap_70/PIRL_TK/PIRL_TK.insert.bed
+2021-04-04 18:53:47,030 - INFO - Writing overlap_70/PIRL_TK/PIRL_TK.primer.tsv
+2021-04-04 18:53:47,033 - INFO - Writing overlap_70/PIRL_TK/PIRL_TK.reference.fasta
+2021-04-04 18:53:47,040 - INFO - Writing overlap_70/PIRL_TK/PIRL_TK.plot.pdf
+2021-04-04 18:53:47,040 - INFO - Writing overlap_70/PIRL_TK/PIRL_TK.plot.svg
+2021-04-04 18:53:47,068 - INFO - Writing overlap_70/PIRL_TK/PIRL_TK.report.json

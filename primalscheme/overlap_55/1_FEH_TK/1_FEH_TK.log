@@ -24,3 +24,16 @@
 2021-04-03 01:20:48,035 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.plot.pdf
 2021-04-03 01:20:48,035 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.plot.svg
 2021-04-03 01:20:48,078 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.report.json
+2021-04-04 17:58:18,102 - INFO - Writing log to overlap_55/1_FEH_TK/1_FEH_TK.log
+2021-04-04 17:58:18,119 - INFO - References:
+ - 1_FEH_TK
+2021-04-04 17:58:18,119 - INFO - Primary reference for coordinate system: 1_FEH_TK
+2021-04-04 17:58:18,119 - INFO - Considering primers from all references
+2021-04-04 17:58:28,340 - INFO - All done! Scheme created with 14 regions, 6 gaps, 78.17% coverage
+2021-04-04 17:58:28,340 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.primer.bed
+2021-04-04 17:58:28,344 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.insert.bed
+2021-04-04 17:58:28,346 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.primer.tsv
+2021-04-04 17:58:28,348 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.reference.fasta
+2021-04-04 17:58:28,358 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.plot.pdf
+2021-04-04 17:58:28,358 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.plot.svg
+2021-04-04 17:58:28,394 - INFO - Writing overlap_55/1_FEH_TK/1_FEH_TK.report.json

@@ -11,3 +11,16 @@
 2021-04-03 11:46:10,358 - INFO - Writing overlap_85/PUCP7_TK/PUCP7_TK.plot.pdf
 2021-04-03 11:46:10,358 - INFO - Writing overlap_85/PUCP7_TK/PUCP7_TK.plot.svg
 2021-04-03 11:46:10,377 - INFO - Writing overlap_85/PUCP7_TK/PUCP7_TK.report.json
+2021-04-04 19:39:27,169 - INFO - Writing log to overlap_85/PUCP7_TK/PUCP7_TK.log
+2021-04-04 19:39:27,186 - INFO - References:
+ - PUCP7_TK
+2021-04-04 19:39:27,186 - INFO - Primary reference for coordinate system: PUCP7_TK
+2021-04-04 19:39:27,186 - INFO - Considering primers from all references
+2021-04-04 19:39:37,090 - INFO - All done! Scheme created with 7 regions, 0 gaps, 85.4% coverage
+2021-04-04 19:39:37,090 - INFO - Writing overlap_85/PUCP7_TK/PUCP7_TK.primer.bed
+2021-04-04 19:39:37,093 - INFO - Writing overlap_85/PUCP7_TK/PUCP7_TK.insert.bed
+2021-04-04 19:39:37,095 - INFO - Writing overlap_85/PUCP7_TK/PUCP7_TK.primer.tsv
+2021-04-04 19:39:37,097 - INFO - Writing overlap_85/PUCP7_TK/PUCP7_TK.reference.fasta
+2021-04-04 19:39:37,104 - INFO - Writing overlap_85/PUCP7_TK/PUCP7_TK.plot.pdf
+2021-04-04 19:39:37,104 - INFO - Writing overlap_85/PUCP7_TK/PUCP7_TK.plot.svg
+2021-04-04 19:39:37,129 - INFO - Writing overlap_85/PUCP7_TK/PUCP7_TK.report.json

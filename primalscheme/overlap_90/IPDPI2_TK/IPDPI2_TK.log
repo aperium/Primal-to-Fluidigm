@@ -1,0 +1,13 @@
+2021-04-04 19:50:20,864 - INFO - Writing log to overlap_90/IPDPI2_TK/IPDPI2_TK.log
+2021-04-04 19:50:20,870 - INFO - References:
+ - IPDPI2_TK
+2021-04-04 19:50:20,870 - INFO - Primary reference for coordinate system: IPDPI2_TK
+2021-04-04 19:50:20,870 - INFO - Considering primers from all references
+2021-04-04 19:50:26,443 - INFO - All done! Scheme created with 8 regions, 1 gap, 78.77% coverage
+2021-04-04 19:50:26,443 - INFO - Writing overlap_90/IPDPI2_TK/IPDPI2_TK.primer.bed
+2021-04-04 19:50:26,444 - INFO - Writing overlap_90/IPDPI2_TK/IPDPI2_TK.insert.bed
+2021-04-04 19:50:26,444 - INFO - Writing overlap_90/IPDPI2_TK/IPDPI2_TK.primer.tsv
+2021-04-04 19:50:26,445 - INFO - Writing overlap_90/IPDPI2_TK/IPDPI2_TK.reference.fasta
+2021-04-04 19:50:26,450 - INFO - Writing overlap_90/IPDPI2_TK/IPDPI2_TK.plot.pdf
+2021-04-04 19:50:26,450 - INFO - Writing overlap_90/IPDPI2_TK/IPDPI2_TK.plot.svg
+2021-04-04 19:50:26,472 - INFO - Writing overlap_90/IPDPI2_TK/IPDPI2_TK.report.json

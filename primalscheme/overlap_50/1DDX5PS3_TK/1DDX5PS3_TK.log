@@ -11,3 +11,16 @@
 2021-04-03 01:03:50,488 - INFO - Writing overlap_50/1DDX5PS3_TK/1DDX5PS3_TK.plot.pdf
 2021-04-03 01:03:50,489 - INFO - Writing overlap_50/1DDX5PS3_TK/1DDX5PS3_TK.plot.svg
 2021-04-03 01:03:50,527 - INFO - Writing overlap_50/1DDX5PS3_TK/1DDX5PS3_TK.report.json
+2021-04-04 17:43:08,898 - INFO - Writing log to overlap_50/1DDX5PS3_TK/1DDX5PS3_TK.log
+2021-04-04 17:43:08,963 - INFO - References:
+ - 1DDX5PS3_TK
+2021-04-04 17:43:08,963 - INFO - Primary reference for coordinate system: 1DDX5PS3_TK
+2021-04-04 17:43:08,963 - INFO - Considering primers from all references
+2021-04-04 17:43:18,978 - INFO - All done! Scheme created with 14 regions, 6 gaps, 72.99% coverage
+2021-04-04 17:43:18,978 - INFO - Writing overlap_50/1DDX5PS3_TK/1DDX5PS3_TK.primer.bed
+2021-04-04 17:43:18,981 - INFO - Writing overlap_50/1DDX5PS3_TK/1DDX5PS3_TK.insert.bed
+2021-04-04 17:43:18,984 - INFO - Writing overlap_50/1DDX5PS3_TK/1DDX5PS3_TK.primer.tsv
+2021-04-04 17:43:18,986 - INFO - Writing overlap_50/1DDX5PS3_TK/1DDX5PS3_TK.reference.fasta
+2021-04-04 17:43:18,997 - INFO - Writing overlap_50/1DDX5PS3_TK/1DDX5PS3_TK.plot.pdf
+2021-04-04 17:43:18,997 - INFO - Writing overlap_50/1DDX5PS3_TK/1DDX5PS3_TK.plot.svg
+2021-04-04 17:43:19,034 - INFO - Writing overlap_50/1DDX5PS3_TK/1DDX5PS3_TK.report.json

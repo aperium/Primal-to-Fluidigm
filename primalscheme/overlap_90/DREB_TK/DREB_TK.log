@@ -1,0 +1,13 @@
+2021-04-04 19:48:06,968 - INFO - Writing log to overlap_90/DREB_TK/DREB_TK.log
+2021-04-04 19:48:06,974 - INFO - References:
+ - DREB_TK
+2021-04-04 19:48:06,974 - INFO - Primary reference for coordinate system: DREB_TK
+2021-04-04 19:48:06,974 - INFO - Considering primers from all references
+2021-04-04 19:48:10,246 - INFO - All done! Scheme created with 5 regions, 2 gaps, 76.74% coverage
+2021-04-04 19:48:10,246 - INFO - Writing overlap_90/DREB_TK/DREB_TK.primer.bed
+2021-04-04 19:48:10,247 - INFO - Writing overlap_90/DREB_TK/DREB_TK.insert.bed
+2021-04-04 19:48:10,247 - INFO - Writing overlap_90/DREB_TK/DREB_TK.primer.tsv
+2021-04-04 19:48:10,248 - INFO - Writing overlap_90/DREB_TK/DREB_TK.reference.fasta
+2021-04-04 19:48:10,252 - INFO - Writing overlap_90/DREB_TK/DREB_TK.plot.pdf
+2021-04-04 19:48:10,252 - INFO - Writing overlap_90/DREB_TK/DREB_TK.plot.svg
+2021-04-04 19:48:10,270 - INFO - Writing overlap_90/DREB_TK/DREB_TK.report.json

@@ -24,3 +24,16 @@
 2021-04-03 02:16:43,893 - INFO - Writing overlap_70/ERF_TK/ERF_TK.plot.pdf
 2021-04-03 02:16:43,893 - INFO - Writing overlap_70/ERF_TK/ERF_TK.plot.svg
 2021-04-03 02:16:43,947 - INFO - Writing overlap_70/ERF_TK/ERF_TK.report.json
+2021-04-04 18:48:56,476 - INFO - Writing log to overlap_70/ERF_TK/ERF_TK.log
+2021-04-04 18:48:56,490 - INFO - References:
+ - ERF_TK
+2021-04-04 18:48:56,490 - INFO - Primary reference for coordinate system: ERF_TK
+2021-04-04 18:48:56,490 - INFO - Considering primers from all references
+2021-04-04 18:48:59,209 - INFO - All done! Scheme created with 4 regions, 1 gap, 70.1% coverage
+2021-04-04 18:48:59,209 - INFO - Writing overlap_70/ERF_TK/ERF_TK.primer.bed
+2021-04-04 18:48:59,212 - INFO - Writing overlap_70/ERF_TK/ERF_TK.insert.bed
+2021-04-04 18:48:59,214 - INFO - Writing overlap_70/ERF_TK/ERF_TK.primer.tsv
+2021-04-04 18:48:59,217 - INFO - Writing overlap_70/ERF_TK/ERF_TK.reference.fasta
+2021-04-04 18:48:59,223 - INFO - Writing overlap_70/ERF_TK/ERF_TK.plot.pdf
+2021-04-04 18:48:59,223 - INFO - Writing overlap_70/ERF_TK/ERF_TK.plot.svg
+2021-04-04 18:48:59,262 - INFO - Writing overlap_70/ERF_TK/ERF_TK.report.json

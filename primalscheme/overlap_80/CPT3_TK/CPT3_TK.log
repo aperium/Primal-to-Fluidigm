@@ -11,3 +11,16 @@
 2021-04-03 11:26:33,247 - INFO - Writing overlap_80/CPT3_TK/CPT3_TK.plot.pdf
 2021-04-03 11:26:33,247 - INFO - Writing overlap_80/CPT3_TK/CPT3_TK.plot.svg
 2021-04-03 11:26:33,279 - INFO - Writing overlap_80/CPT3_TK/CPT3_TK.report.json
+2021-04-04 19:17:44,147 - INFO - Writing log to overlap_80/CPT3_TK/CPT3_TK.log
+2021-04-04 19:17:44,168 - INFO - References:
+ - CPT3_TK
+2021-04-04 19:17:44,168 - INFO - Primary reference for coordinate system: CPT3_TK
+2021-04-04 19:17:44,168 - INFO - Considering primers from all references
+2021-04-04 19:17:46,917 - INFO - All done! Scheme created with 4 regions, 1 gap, 54.28% coverage
+2021-04-04 19:17:46,918 - INFO - Writing overlap_80/CPT3_TK/CPT3_TK.primer.bed
+2021-04-04 19:17:46,920 - INFO - Writing overlap_80/CPT3_TK/CPT3_TK.insert.bed
+2021-04-04 19:17:46,923 - INFO - Writing overlap_80/CPT3_TK/CPT3_TK.primer.tsv
+2021-04-04 19:17:46,925 - INFO - Writing overlap_80/CPT3_TK/CPT3_TK.reference.fasta
+2021-04-04 19:17:46,931 - INFO - Writing overlap_80/CPT3_TK/CPT3_TK.plot.pdf
+2021-04-04 19:17:46,931 - INFO - Writing overlap_80/CPT3_TK/CPT3_TK.plot.svg
+2021-04-04 19:17:46,971 - INFO - Writing overlap_80/CPT3_TK/CPT3_TK.report.json

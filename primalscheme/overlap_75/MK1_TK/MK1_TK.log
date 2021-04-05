@@ -11,3 +11,16 @@
 2021-04-03 11:16:02,913 - INFO - Writing overlap_75/MK1_TK/MK1_TK.plot.pdf
 2021-04-03 11:16:02,913 - INFO - Writing overlap_75/MK1_TK/MK1_TK.plot.svg
 2021-04-03 11:16:02,939 - INFO - Writing overlap_75/MK1_TK/MK1_TK.report.json
+2021-04-04 19:05:57,885 - INFO - Writing log to overlap_75/MK1_TK/MK1_TK.log
+2021-04-04 19:05:57,906 - INFO - References:
+ - MK1_TK
+2021-04-04 19:05:57,906 - INFO - Primary reference for coordinate system: MK1_TK
+2021-04-04 19:05:57,906 - INFO - Considering primers from all references
+2021-04-04 19:06:06,533 - INFO - All done! Scheme created with 12 regions, 4 gaps, 83.37% coverage
+2021-04-04 19:06:06,533 - INFO - Writing overlap_75/MK1_TK/MK1_TK.primer.bed
+2021-04-04 19:06:06,538 - INFO - Writing overlap_75/MK1_TK/MK1_TK.insert.bed
+2021-04-04 19:06:06,542 - INFO - Writing overlap_75/MK1_TK/MK1_TK.primer.tsv
+2021-04-04 19:06:06,547 - INFO - Writing overlap_75/MK1_TK/MK1_TK.reference.fasta
+2021-04-04 19:06:06,557 - INFO - Writing overlap_75/MK1_TK/MK1_TK.plot.pdf
+2021-04-04 19:06:06,557 - INFO - Writing overlap_75/MK1_TK/MK1_TK.plot.svg
+2021-04-04 19:06:06,592 - INFO - Writing overlap_75/MK1_TK/MK1_TK.report.json

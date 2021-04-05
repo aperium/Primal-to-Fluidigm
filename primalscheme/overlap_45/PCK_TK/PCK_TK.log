@@ -11,3 +11,16 @@
 2021-04-03 00:58:34,476 - INFO - Writing overlap_45/PCK_TK/PCK_TK.plot.pdf
 2021-04-03 00:58:34,476 - INFO - Writing overlap_45/PCK_TK/PCK_TK.plot.svg
 2021-04-03 00:58:34,528 - INFO - Writing overlap_45/PCK_TK/PCK_TK.report.json
+2021-04-04 17:38:19,832 - INFO - Writing log to overlap_45/PCK_TK/PCK_TK.log
+2021-04-04 17:38:19,851 - INFO - References:
+ - PCK_TK
+2021-04-04 17:38:19,851 - INFO - Primary reference for coordinate system: PCK_TK
+2021-04-04 17:38:19,851 - INFO - Considering primers from all references
+2021-04-04 17:38:22,508 - INFO - All done! Scheme created with 4 regions, 1 gap, 68.85% coverage
+2021-04-04 17:38:22,508 - INFO - Writing overlap_45/PCK_TK/PCK_TK.primer.bed
+2021-04-04 17:38:22,513 - INFO - Writing overlap_45/PCK_TK/PCK_TK.insert.bed
+2021-04-04 17:38:22,516 - INFO - Writing overlap_45/PCK_TK/PCK_TK.primer.tsv
+2021-04-04 17:38:22,520 - INFO - Writing overlap_45/PCK_TK/PCK_TK.reference.fasta
+2021-04-04 17:38:22,527 - INFO - Writing overlap_45/PCK_TK/PCK_TK.plot.pdf
+2021-04-04 17:38:22,528 - INFO - Writing overlap_45/PCK_TK/PCK_TK.plot.svg
+2021-04-04 17:38:22,568 - INFO - Writing overlap_45/PCK_TK/PCK_TK.report.json

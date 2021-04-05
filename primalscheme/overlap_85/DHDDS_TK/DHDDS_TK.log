@@ -11,3 +11,16 @@
 2021-04-03 11:40:17,638 - INFO - Writing overlap_85/DHDDS_TK/DHDDS_TK.plot.pdf
 2021-04-03 11:40:17,638 - INFO - Writing overlap_85/DHDDS_TK/DHDDS_TK.plot.svg
 2021-04-03 11:40:17,670 - INFO - Writing overlap_85/DHDDS_TK/DHDDS_TK.report.json
+2021-04-04 19:33:01,897 - INFO - Writing log to overlap_85/DHDDS_TK/DHDDS_TK.log
+2021-04-04 19:33:01,920 - INFO - References:
+ - DHDDS_TK
+2021-04-04 19:33:01,920 - INFO - Primary reference for coordinate system: DHDDS_TK
+2021-04-04 19:33:01,920 - INFO - Considering primers from all references
+2021-04-04 19:33:04,649 - INFO - All done! Scheme created with 4 regions, 1 gap, 69.65% coverage
+2021-04-04 19:33:04,649 - INFO - Writing overlap_85/DHDDS_TK/DHDDS_TK.primer.bed
+2021-04-04 19:33:04,652 - INFO - Writing overlap_85/DHDDS_TK/DHDDS_TK.insert.bed
+2021-04-04 19:33:04,654 - INFO - Writing overlap_85/DHDDS_TK/DHDDS_TK.primer.tsv
+2021-04-04 19:33:04,657 - INFO - Writing overlap_85/DHDDS_TK/DHDDS_TK.reference.fasta
+2021-04-04 19:33:04,663 - INFO - Writing overlap_85/DHDDS_TK/DHDDS_TK.plot.pdf
+2021-04-04 19:33:04,663 - INFO - Writing overlap_85/DHDDS_TK/DHDDS_TK.plot.svg
+2021-04-04 19:33:04,705 - INFO - Writing overlap_85/DHDDS_TK/DHDDS_TK.report.json

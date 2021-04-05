@@ -11,3 +11,16 @@
 2021-04-03 01:59:25,118 - INFO - Writing overlap_65/CYP716D60_TK/CYP716D60_TK.plot.pdf
 2021-04-03 01:59:25,118 - INFO - Writing overlap_65/CYP716D60_TK/CYP716D60_TK.plot.svg
 2021-04-03 01:59:25,153 - INFO - Writing overlap_65/CYP716D60_TK/CYP716D60_TK.report.json
+2021-04-04 18:33:00,526 - INFO - Writing log to overlap_65/CYP716D60_TK/CYP716D60_TK.log
+2021-04-04 18:33:00,546 - INFO - References:
+ - CYP716D60_TK
+2021-04-04 18:33:00,547 - INFO - Primary reference for coordinate system: CYP716D60_TK
+2021-04-04 18:33:00,547 - INFO - Considering primers from all references
+2021-04-04 18:33:12,769 - INFO - All done! Scheme created with 13 regions, 4 gaps, 84.99% coverage
+2021-04-04 18:33:12,769 - INFO - Writing overlap_65/CYP716D60_TK/CYP716D60_TK.primer.bed
+2021-04-04 18:33:12,772 - INFO - Writing overlap_65/CYP716D60_TK/CYP716D60_TK.insert.bed
+2021-04-04 18:33:12,775 - INFO - Writing overlap_65/CYP716D60_TK/CYP716D60_TK.primer.tsv
+2021-04-04 18:33:12,777 - INFO - Writing overlap_65/CYP716D60_TK/CYP716D60_TK.reference.fasta
+2021-04-04 18:33:12,787 - INFO - Writing overlap_65/CYP716D60_TK/CYP716D60_TK.plot.pdf
+2021-04-04 18:33:12,787 - INFO - Writing overlap_65/CYP716D60_TK/CYP716D60_TK.plot.svg
+2021-04-04 18:33:12,823 - INFO - Writing overlap_65/CYP716D60_TK/CYP716D60_TK.report.json
