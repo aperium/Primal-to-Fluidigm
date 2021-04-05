@@ -40,12 +40,10 @@ files <- c("pool1.pim","pool2.pim")
 #   arrange(desc(value)) %>% 
 #   write_csv()
 
-
 for (i in 1:length(files)) {
   # read ith file
   matrix_i <- read_table(path(path, files[i]), col_names = FALSE, skip = 6) %>%
-    select(-X1) %>%
-    column_to_rownames("X2")
+    column_to_rownames("X1")
   names(matrix_i) <- unlist(rownames(matrix_i))
   matrix_i[!lower.tri(matrix_i)] <- NA
   
@@ -62,5 +60,5 @@ for (i in 1:length(files)) {
   dedupe_i %>% 
     # filter(value <100 & value >= 80) %>% 
     arrange(desc(value)) %>% 
-    write_csv(file = paste0(files,".csv")[i])
+    write_csv(file = path(path,paste0(files,".csv")[i]))
 }
