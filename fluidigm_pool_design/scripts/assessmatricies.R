@@ -1,17 +1,23 @@
-reqpacks <- c("tidyverse","stringr","magrittr","fs","reshape2")
-packstoinstall <- setdiff(reqpacks,installed.packages()[,1])
-if(length(packstoinstall) > 0) install.packages(packstoinstall)
 
-library(tidyverse)
-library(stringr)
-library(magrittr)
-library(fs)
-library(reshape2)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, magrittr, fs, reshape2)
+
+# reqpacks <- c("tidyverse","stringr","magrittr","fs","reshape2")
+# packstoinstall <- setdiff(reqpacks,installed.packages()[,1])
+# if(length(packstoinstall) > 0) install.packages(packstoinstall)
+# 
+# library(tidyverse)
+# library(stringr)
+# library(magrittr)
+# library(fs)
+# library(reshape2)
 
 # set working directory
 # getwd()
-#setwd("/fs/scratch/PAS1755/drw_wd/reduced_primal_by_clustal/clustal_on_primers")
-setwd("/Users/aperium/Dropbox/Projects/OSU HCS/T. kok-saghyz/Harnessing VLHSV/reduced_primal_by_clustal/clustal_on_primers")
+#setwd("/fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm/fluidigm_pool_design/scripts")
+setwd("/Users/aperium/Documents/GitHub/Primal-to-Fluidigm/fluidigm_pool_design/scripts")
+
+path <- path("../out/pools/clustalout/")
 
 files <- c("pool1.pim","pool2.pim")
 
@@ -34,9 +40,10 @@ files <- c("pool1.pim","pool2.pim")
 #   arrange(desc(value)) %>% 
 #   write_csv()
 
+
 for (i in 1:length(files)) {
   # read ith file
-  matrix_i <- read_table(files[i], col_names = FALSE, skip = 6) %>%
+  matrix_i <- read_table(path(path, files[i]), col_names = FALSE, skip = 6) %>%
     select(-X1) %>%
     column_to_rownames("X2")
   names(matrix_i) <- unlist(rownames(matrix_i))
