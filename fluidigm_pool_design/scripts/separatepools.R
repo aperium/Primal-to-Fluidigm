@@ -13,8 +13,10 @@ if (length(args) == 0) infile <- path("../out/allprimers.tsv") else infile <- ar
 
 # read tsv file
 data <- infile %>%
-  read_tsv(col_names = TRUE)
-
+  read_tsv(col_names = TRUE) %>%
+  # remove the clusters to prevent problems
+  filter(!str_detect(name, "cluster"))
+  
 # produce a unique csv and fasta file for each pool
 dir_create(outpath)
 for (i in unique(data$pool)) {

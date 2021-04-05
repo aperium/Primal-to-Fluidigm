@@ -40,9 +40,10 @@ files <- c("pool1.pim","pool2.pim")
 #   arrange(desc(value)) %>% 
 #   write_csv()
 
+
 for (i in 1:length(files)) {
   # read ith file
-  matrix_i <- read_table(path(path, files[i]), col_names = FALSE, skip = 6) %>%
+  matrix_i <- read_table(path(path, files[i]), col_names = FALSE, skip = 1, col_types = cols(.default = col_double(),X1 = col_character())) %>%
     column_to_rownames("X1")
   names(matrix_i) <- unlist(rownames(matrix_i))
   matrix_i[!lower.tri(matrix_i)] <- NA
