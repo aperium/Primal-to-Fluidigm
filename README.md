@@ -87,7 +87,7 @@ I chose this project because it is important to a part of my research. I had alr
 
 ```bash
 # OSC
-/fs/scratch/PAS1755/drw_wd/Primal-to-Fluidigm
+/fs/scratch/PAS1755/$MYDIR/Primal-to-Fluidigm
 
 # Personal computer
 /Users/$USER/Documents/GitHub/Primal-to-Fluidigm
